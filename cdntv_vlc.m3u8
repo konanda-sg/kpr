@@ -3,29 +3,53 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=facd85362044bf88d0c5adb3775f6e9675f46310ef739018814396587c93f059.1777410548.5fb2800454e66ee1bdb9b3aa6f20e268.57baf0ba0dd0617e446966636622b8b3.23576846be0363823f7ea0fdec190d14&signature=1d742a121f3cc150f09b224e598962ad89ce695352331093c5e001c133e83cc8
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=076df86556addd277b1d5d6b70074fa04aad3c7cfa96c7a1b2999a6f24bcae00.1777415522.7256774a7633cc3e7427711d5946033f.cb9b5b04ab9d1688b03a17defa275e09.b31eb6d21d32d8b380b0a43527a2a6a4&signature=d95d37754553a2a58af5f243fdcb0bd2b2ce4eb2b3b87bebcf55f5b45f694311
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Independiente del Valle vs Libertad (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Independiente del Valle vs Libertad
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=f4df7478c2553c6e340750006e6a65de23db42670228a76c3321838385493e69.1777410549.fb41c5b7778751b20115b7e2caf51694.1e0ef7c15b6ee6344e3bb5ef0e0c3cd8.6d2ae5c7cba52fbeac4ef1b7afb9125e&signature=80fdf4b854095862a1150168e68cb30d1acaac56ae9f88789e0b60aaab271db8
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=5c34a4c360cfe82dff86323e50837a99a43a9c2d0e4eb1f7d45cd15702c07e98.1777415523.0d364644dc630c9a357411ac4ad92986.9ac5fea402f91a68bcd94f0bbcaab794.27ed1558365d66fcb482dcfb760fc709&signature=212f69b7a332e583417dc5b99d39972ba3a1d6d203a9c678cda95586aa0ba288
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[College Baseball] Rutgers vs UConn (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Baseball",Rutgers vs UConn
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=btn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-btn/playlist.m3u8?token=8b385859579de17c62591228b4a7b98f0eafdffcc0bc68543b52f1e6a8a6ee37.1777410550.84e2daaee05a52818d671ec3c0e25fdd.72af5c04ddb177d7363c8d3341c81a9f.907da724a410c375eb47aa657b7a4044&signature=9917a3eea75e7f293356e7dbdff1cccacd4b8b4f08ab91f5481eaffcb68b3ae2
+https://edge.cdnlivetv.ru/secure/api/v1/us-btn/playlist.m3u8?token=02e917b0b67479d13451ae647612ed942defe945e7111964f6259c0a36dd3907.1777415527.9e8166af2dda4e072f4efa3aa2b357f3.5b693914833ce0563d80e5ab7f2fbf3a.bf018eecd0d173fe503459d443939cca&signature=e83596711cb56734d4284f4aa53e1dc282f9b3bc2c7ea0121359fb2e925cefb3
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[College Baseball] New Mexico vs New Mexico State (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Baseball",New Mexico vs New Mexico State
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=altitude&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-4/playlist.m3u8?token=2503d6eced09307d64dcfb07be8311b30aa1ae197910143ef56f66b3b1140d19.1777410550.487faa5d1f0d0f42568fbf20ede1080d.f22926dd586fb8e34ae89e8d46d4a77c.9a47edc8dcf7d3d0de6194de1c8571b2&signature=b3d7db0dd722da1af2056af850bbbc399755a549445aca4ad78791ee046988d0
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-4/playlist.m3u8?token=88c60e6431581b0c2d140a8e18ae467c4870bc3a9040d285220312648bba96af.1777415527.eec6db276caa3e82ea4f43d8766db8b6.b592474dc5cc149cf01bf40e1f832a12.d7d84f52e20e8b1e82cc3cb3d9e5d7d7&signature=730280e6ecbf52c4527173864aea151d4073803a99da3c499af276b730e585bc
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[College Softball] Florida vs Florida State (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Florida vs Florida State
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=9d89adf1cb1442a717ebf1d50b4a1a36362e2e53539131bc16470b095984062a.1777410551.75b6de598fc0b415f52fdab25914f5e9.28441beb3631593b2d9953927478bea1.522091de90766f0971d0e918c48ba704&signature=6a21c13f8c9c3065bb356d42323a3e3b5a9516ee90abb0a78d08d2db8c458702
+https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=e2c6c4dcf2e03b0fa269c5ebc223be5d9cc404057b13f7b23b9257e5a72ffb41.1777415528.c38ac4f3444ef3ab34dcd60624b598d8.195b8a50e3bc0f677da376b744be5f94.7689d81477cf0812ca8cfea11cda9caa&signature=567567aa883569e4cfa0f409a246d7f6572a76c75c897dbfb59466838fb05490
+
+#EXTINF:-1 tvg-chno="6" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Buffalo Sabres vs Boston Bruins (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Buffalo Sabres vs Boston Bruins
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-2/playlist.m3u8?token=cd2cd1986f9b079e181f46e3c1f76135399694ba361c558ddc2b7b08a16a41f7.1777415525.24bc697674d37503528668c4d694a547.e619bf8b3fcb1097363b40c0ad02640a.1802736c7144a00ca120f899305d69c1&signature=fd5cb426eceded15dfa6bc55e4b2a477243bbb9022b9759ed7e4e8eec7f2b9ab
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Rosario Central vs UCV (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Rosario Central vs UCV
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=ar&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ar-fox-sports-2/playlist.m3u8?token=ee531a07ff20dd8629e7d8293850b6483e4a0dfbd28d1580524fb3115b9884d5.1777415523.d075581d1e0a464409efd16a3cbe1314.9dbab30c49caa1121226b9477d16ad6f.d91bccf1909ccb004ad70216d44f5f35&signature=6172fe48367b4fe6f84f476a5d4d2fd7d6dc565e4112ca705f050a0a76b1b70f
+
+#EXTINF:-1 tvg-chno="8" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Dallas Stars vs Minnesota Wild (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Dallas Stars vs Minnesota Wild
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+3&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-3/playlist.m3u8?token=e69f8e549e140b4d605076a57ee094607bb3e1ae7ee62eba0d823633486258c0.1777415526.fe008cb4ea9dcae2872f45e2c0021154.d2affecefe039918bd21aea91ed7c3a8.cdae81da5e4912011350111fe6af0a29&signature=6f28f1c31c20c7658a009119c9a6dc4fd9c8445d30aa153473449893edba618d
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Boca Juniors vs Cruzeiro (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Boca Juniors vs Cruzeiro
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=5547fd3031e7e9263020980bb01200d70185aa112b924d9240cbad59fa10c757.1777415524.d8c45848995927bac53359a21e443140.8013068053bccc3fd9f93db7178f642d.caa73727173dc1f88191c344fcdff7f3&signature=77868d8bd73978a0ab0793e852d3a6579cb677997cfccb2b97bf659fc9421b55
 
