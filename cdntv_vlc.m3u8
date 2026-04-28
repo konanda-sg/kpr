@@ -1,7 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[KHL] Lokomotiv Yaroslavl vs Avangard Omsk (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Lokomotiv Yaroslavl vs Avangard Omsk
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+9&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Fateh vs Al Shabab (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al Fateh vs Al Shabab
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+bundesliga+7&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=af9945f2034ec2f4046ad7f69d9a0279c99f518c4f7dd38a48e0eb9567cb98e1.1777382007.cacf2b20f49edf829715c0994e2275bf.5d4ff34e72349cfa37d281a63012b9af.0d2a1683a3d8c456caadca4c7b9bf484&signature=32dd5b7de1a5010d3f4baeb8cb4eec2c9b194f38d7ac99b35cb3076df29d0188
+https://edge.cdnlivetv.ru/secure/api/v1/de-sky-sport-bundesliga-7/playlist.m3u8?token=b72479e46f4c28b3d0852c4caeeeb67d4c1c003ab6f1f2057c8ac6bd83dbd0be.1777391078.b754d8de0886afeb6e33372c92dd307b.2aa3a0ce418fddf8717a7c57f93c618c.16d8034daff3d10c3414c6d2cdd1f2e2&signature=cc09778cabe5095a889797310b568c819e8fac519f8fc887c2d0ef47e59fc2e6
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Ligat Ha'Al] Ashdod vs Bnei Sakhnin (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Ligat Ha'Al",Ashdod vs Bnei Sakhnin
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=eb27151e57e73126a8f4024584fbc74b5ca4e8e50e70b76713bb35fcba6841d5.1777391079.1f796f9ba7421310410b4cc8958d3d45.0aa1930210adb66c294ff42c3854d84a.0b6aaa96ea6054d9ccbd692af6b8d6bd&signature=c1079526da34b88f66f57128d1cd5b180a36df9b7ec94f484560c6f1b474c4b1
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Ligat Ha'Al] Hapoel Be'er Sheva vs Maccabi Tel Aviv (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Ligat Ha'Al",Hapoel Be'er Sheva vs Maccabi Tel Aviv
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=b3223dbdda47b38f4e7aad333f50217f64f220785916162e3b088fcfbbfde41c.1777391080.d65f0f1705260d1cd6531ec5f79c07b2.9a564c214f5264f31abac0384ddc3dd0.d6efacfc46881a925bb83bcf8f32f469&signature=e34bb4fe30e00f94d712b0e329ecfd310e0990a761e66e86412022f0df9ebf10
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Eredivisie] RKC Waalwijk vs Roda JC (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Eredivisie",RKC Waalwijk vs Roda JC
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=a9e23eaa4026fb24c72b947ca06e26a63b01604fbeba00b2d5e60793be9db758.1777391081.a17664dc6a75167eb98ecc5385a0d7ee.675e0edaf468bf1bc628edc6f96a7b0b.4735e0c5d15f77fc43e874a99965846f&signature=e10b04d9ce1bf8ba589f309bbb052b55c197de296b9f9898b6707006e39e5158
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Ligat Ha'Al] Hapoel Petah Tikva vs Beitar Jerusalem (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Ligat Ha'Al",Hapoel Petah Tikva vs Beitar Jerusalem
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=2ff1e460399200aa4b4c8e4fa6b1e816b4ec7c13b8fa37497c29be99c2e4dcae.1777391080.3bede2cdc2f77c87ff0a77d0d07a7841.39ea148a58846eaf507d12a95e2d5377.06a0ad324cc9673ba7b2675e671e5ff3&signature=01dba010a184823ce3f99f688693e6d8e349ed59303771f80401e3b7a274e140
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Segunda liga] Torreense vs Feirense (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Segunda liga",Torreense vs Feirense
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+1&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-1/playlist.m3u8?token=afb278bfeea9982847f0f888155da877bce232401a175161d4a2bd35c478658b.1777391082.43549ecf104dcc57c0e47f8bdbab15eb.0c24867177674fb49cb4e044af3a5f94.6d7aa1fa8ff17af71bd80929757841a8&signature=8385afd214a54bae57493fe8f0862c42ced7a0efa6aad732e3b2252ea1d1043c
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Superettan] Landskrona vs Norrköping (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Superettan",Landskrona vs Norrköping
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tv4+football&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/se-tv4-football/playlist.m3u8?token=a68ae21f7d884f2146b47518677a2f4f849d35f02dcc0d1d39e557daa966551d.1777391082.f59918b8a190b3b1cb0ece25b95f92a1.3ca6e8f16e2f03abfa6975785451f51c.a04a8985d156989e69dd01603627fe58&signature=4788c2810c606ec0460549e74bd1d5db20f95af09c72cb1005dae2be89ab8ead
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[SHL] Skelleftea vs Rogle (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="SHL",Skelleftea vs Rogle
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viaplay+sports+1&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-viaplay-sports-1/playlist.m3u8?token=7bfdeace143be3224dd2493823bad1fdfdd2d72d45e4c3a5db7736c69ed67859.1777391084.1757af8a350eac27dbe3fa5f4d3eb135.0ba1c84dcf273225e8841036da94c672.66f07db56e7d19ed2886460ecc5609a4&signature=f1c11c3ac0b01c38540d06c5064497a05a586779f64cccc529a1982ff0b3c779
 
