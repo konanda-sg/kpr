@@ -1,55 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Ligat Ha'Al] Maccabi Netanya vs Ironi Kiryat Shmona (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Ligat Ha'Al",Maccabi Netanya vs Ironi Kiryat Shmona
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=dcbef8233749caa4786a5ff79c3679739ae9c855efa21cfcf03302dd3063d337.1777485574.c1162a09648be38e63e5718b10f98266.8bfa2961fd49b9aec0cc5c01853dccc0.2365ddedc7daa2268342a8ee0cc80d28&signature=82ea9efba82cb33375a480529eb5f773a093e71917da8b7b31d79f97892678ec
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Quadisiya vs Al Riyadh (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al Quadisiya vs Al Riyadh
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=2bd894a2b620a6afe3fd5ea2d37332de1b860c47bfaa5fc971217070c2e672ed.1777485575.04e365501aa08be7b5fbc9cbb2ba7c1b.955d8ce146c7e6ecbcfba4647dfa43fa.4def7db5707eb5694096a41dcb185085&signature=5a0f3642cf7ed0997d1c7fb8b2238939c291c07aebb52510be8f9104ceb37d81
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Ittihad vs Al Taawon (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al Ittihad vs Al Taawon
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Pro League] Al-Ahli vs Al Nassr (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al-Ahli vs Al Nassr
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=0a2374beeb5f9dc10b0eae061d6a85b0b7bcd6062d232d625dc99ead27e3ece1.1777485575.362e98bd3cab9b224569f64d87350ef7.d782945e7dcae26682a60871602fdcf5.13b4124064c8f5131f2b22d37da81889&signature=85831dc37187bdffed93e46fc89e78e41381faa321eee4c893371fe72db5a13b
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=d99a47a37edc6e5e7a13b97284289effc78c41600d3c8d46cf2185f9b09d9468.1777492104.df220998bc42923c47afaae6dabce5e7.76e29b0b50d9dee1a1405691776b5188.0f10bb803df6d4aa1ae26167b99b0a62&signature=a960bf51d44baa1c16f16483f5f09ad81ae202081b89620c797026e3caf1402a
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Serbian Cup] Vojvodina vs Grafičar (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Serbian Cup",Vojvodina vs Grafičar
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=c9aed6f5acb72dd062f73e2737b03d477e36b5a645cfd98a16599646b62d4c20.1777485576.59401afcecce70a2bffa4dfa6f381c85.83d62b22964c6c789ea28a644e73bcfe.48f6ac4be5e8d048eba6d90de24c2679&signature=b2623c2911241af210d0b5ff22709daa85df435d9e8a749ae01a02f35dee65ca
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[KHL] Metallurg Magnitogorsk vs Bars Kazan (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Metallurg Magnitogorsk vs Bars Kazan
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-5/playlist.m3u8?token=f0cc73ae41d7e20a803a3d6995f16368228d8c0b02df19fbdbafcdcfbd81268c.1777485579.9604e32bc08d639b7b2ed820191295f4.222f303042d6221ba8e767a277c6aec4.0c5f5876ce467ab218a247043895523a&signature=4b81cc25fa40efb79a110f56dd6a665094bcdc991c1ab08381782c0a0b734570
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Eredivisie] Almere City vs Den Bosch (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Eredivisie",Almere City vs Den Bosch
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=d9c0cb656da79e937d3eec3e7e748d4ede101df9499c4fba85f362c6d098e291.1777485576.1914f3444c3decb893f629b9b1089c10.e139a4899fe0f90dd613aa7e46c478fc.4432e30d59f8bc2ce18f68350719eede&signature=ce700658f8cd8b4320b5c51da91688e06424808a36d765306060da9fd3fbb485
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[DStv Premiership] Kaizer Chiefs vs Siwelele (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="DStv Premiership",Kaizer Chiefs vs Siwelele
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=f98e7a000b5f0e2d0b1b12b94ecce2afbc44dc2fbfec5059526837d190af5a73.1777485577.2bb378ef165fa1aa742f69ddda38607c.f5da7fd76759701108fd71c9b7a8025b.e80cca0ee56782072b4678cf6a890b74&signature=e1522fb16d99b369e62bccbaf9eef8c66e4fb791b782355c56352b744959ff5c
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Pro League] Al-Ahli vs Al Nassr (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al-Ahli vs Al Nassr
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=7a9487bb3763398c515ec33e3220ac35767768450373ef7ad2974edd97881848.1777485577.be7db74b492bf00ee51a614161fbe4da.835acb621dab57af2bed989c90e4a49b.239407bec0c1352094cb7db2bc46553c&signature=b8010bb0a9f61f07f3ca70cfabccdd50ff45a74841287655ac69b1d6f0c24414
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Primeira Liga] Tondela vs Sporting CP (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Primeira Liga",Tondela vs Sporting CP
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Primeira Liga] Tondela vs Sporting CP (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Primeira Liga",Tondela vs Sporting CP
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=f5f44e1dabb4f7c766b6f32c9ea959991df3de79db77fbf34fb0875b014f5046.1777485578.8366cd3767a306eae1e0c6143dcbeaab.cbda4e920cc0392818e09e1208609b52.fc4030aac33d7814f740afcf81df7432&signature=d6b0532f13a9cc48c5a7c968e6b15578cab2acf2c980004e0f3381ac39cfe77d
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=ed5368c14b1ee58462596130c16ea0ef644c43d59be4fa4f4053ca54cd0d190a.1777492106.d66368018551f89bf2b7cedc86e09b03.3eb49542acd54c9efae6fe2bed711fe3.2b280573d89501f9d83cd845e32af3d7&signature=eec1cc14d9aa9627dcb690aa7cf1e043e3fe8659b156f6ac85472aafa4254cc6
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Liga Nacional] Platense vs Olimpia (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2248.png" group-title="Liga Nacional",Platense vs Olimpia
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=cd619f09123885169123b0e6e1df9e7b3d97b248dd40c44daa64f50b5283e075.1777492107.160d1abec5d412c7ad225d0e35228418.d29cd2a6105630c63a5115103e9fca3d.790715d5520ff44c2611fc5faf625fa6&signature=99ba1e0c6fd51c75ebdbc8d19aa0dbf600ca571f891210a743b97ac246e01b8a
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Deportivo Pasto vs Junior (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Deportivo Pasto vs Junior
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=7276da80d6672206a1e1673c0c5865174893673457ac3e453efbb5eec72169be.1777492107.ba266106af4a21491ff49ef0a45fdf4e.e47b77df8be13dc7dcc2e84693515dd8.8db66c7fee682979d904af772a99522a&signature=9b6ab15f666c2056cc33c8d12b9999a6fc085c60810d5a2289840a797ac0a0f2
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Millonarios vs Alianza (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Millonarios vs Alianza
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=0dde35e4e2e4cc80fb4a90d179315e3508c310d576d8828f46cc5d4923ade2c3.1777492108.78b375e2179744567474138b3b53ce39.a799b195a8db66673df5daf6885ada07.250ce5ee53f89e76420a18d433aad472&signature=f0ec0c07a3566fe0167fa968f9873eace7a696d53136a35791cf3a88193e551c
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Deportivo Pereira vs América de Cali (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Deportivo Pereira vs América de Cali
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=46204b4fc0dde3c096a516eb1fb269613953b32b2c4b01e22f241f21fc96ba2f.1777492109.9b26787e47615750194a85f56bf4a517.55924ae196975373a6ead1589a4eeb09.7e99512d555cc25bb4a453b6fc71758a&signature=e87890afef25c2b48aa4654d86d598c93e6632fd92b0616bf8124caa3272451f
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Llaneros vs Boyacá Chicó (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Llaneros vs Boyacá Chicó
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=7838f1f54e6484db6a2cab8d40c44a690da30a6e215ea7eaa18b3ae7ba289dc3.1777492110.85a28af2940b2b615e11c596db9dc1f7.4582154c8db3d470860801732a11b5aa.85b4186433eb85e86739042396a13304&signature=8540c613ad5297de8c15ee744d511152d8411afaf4a9dd5832ac5b428c78c817
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Deportivo Cali vs Deportes Tolima (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Deportivo Cali vs Deportes Tolima
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=0c05fdf2fd9078214aee248c25b80af9c129b6e77d1358ac8d7719afc8063770.1777492110.cf603e5c4b74dac727b57d0d8e6611c2.5976742e1a25d95a4528687b362f1a2f.0d6b9144c5e22dc79ea04b865bb56aa3&signature=3691888a1cd368c0106d9dfea5e96d51a6a2d5f2f0ff4047409017d46d74b6a1
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Bucaramanga vs Fortaleza CEIF (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Atlético Bucaramanga vs Fortaleza CEIF
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=c79e4f5727a54544701deb2456e6a815c1feb18330959c56b6f3d8d2647706ec.1777492111.225c526028b0fd7536cf7a5ba70e04fe.91f0f33c59be3ff58c53bbf548fdc3c1.7e1f02ed55c0ac9c71732099d934612c&signature=7e40426ef92a5a8e30a1cc1dc869c4f5e9a2b8dcaf0a251b723a74b64c24999a
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Rionegro Águilas vs Medellín (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Rionegro Águilas vs Medellín
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=812938551e939027dfa103cff69c38e649cb51f22634d866ad36d3aa5bbd4101.1777492112.9eb1ace086465255b0c68d9c7574bc0a.12dfe28a37ad44c0ccf524058a2104f3.d62931ce515e34a147ecebf887d9b157&signature=da25ba14b4738d719dbcbfdf3928b94784e178130de061a0a6cf075d76f06ad3
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Inter Bogotá vs Santa Fe (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Inter Bogotá vs Santa Fe
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=7e8ab39ea4d4baca4e99bed6307cc155a07213e6063ff1d088edf4cb3c461f00.1777492113.6088f8a07b50d53d94b94478c97c5363.8fa2e9d34a89ac3fd283aefbe79dbfda.191263b06f40d420c30b7b6145be0875&signature=78421c87f8d505ad49bed432525e87ef9c7272d287928a45ea3e79e1ae2fbba0
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Atlético Nacional vs Once Caldas (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Atlético Nacional vs Once Caldas
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=e3dfa9028bf711b12f867ac56f6286c5e45bc41d89659e716550f9eabf4cd4be.1777492113.47c693469e3a4711a7ab24dd03b1c6de.63275ff6cedbae8ad1e862e96a715966.3a93abeabc829d6cb55caa2ce2f26245&signature=e52fad84357a740a282192e7b79ff9924cf193def5de6f849cdcc599fd02f049
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Soccer.Dummy.us" tvg-name="[Primera A] Cúcuta Deportivo vs Jaguares de Córdoba (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="Primera A",Cúcuta Deportivo vs Jaguares de Córdoba
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=win+futbol&code=co&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/co-win-futbol/playlist.m3u8?token=862a217a761035fa8a20c6f80b978d873f22997f0e890ec1baf256385cf28921.1777492114.3cc85f01e7cb2afb484170ba34e10960.aff98706c8a6cd02fb8d01edc409058f.9f00ddc8d1fafabc4ea741f3f0c9fc79&signature=83be94469b89944dc9c8e75c3afbc0df2bc40bd0b68f50869383c04c31d61357
 
