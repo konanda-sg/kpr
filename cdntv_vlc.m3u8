@@ -3,47 +3,53 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=1c8929ec32cfbca003f31266a57b8df5350c4526a7d7ce16af4a0e80c2720eb5.1777480104.d9706fc92e15d54f533a29d95ed1836a.30dcbb25134e421ab3f3c3e40fc55368.6847a0094fbec7f9aba15aaa94a35ea8&signature=f44c8e232256ae32b248c1178d0a319ca6dfe26336930d9e75b3e35ed80c5111
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=dcbef8233749caa4786a5ff79c3679739ae9c855efa21cfcf03302dd3063d337.1777485574.c1162a09648be38e63e5718b10f98266.8bfa2961fd49b9aec0cc5c01853dccc0.2365ddedc7daa2268342a8ee0cc80d28&signature=82ea9efba82cb33375a480529eb5f773a093e71917da8b7b31d79f97892678ec
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Quadisiya vs Al Riyadh (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al Quadisiya vs Al Riyadh
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+7&code=gb&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=1c5186ef2062a3507afe08f42ef08ee53ab127e0260694f440ab7efb4bd13ca4.1777480104.b1c3802ef6d8af8091ae28e5ce89a486.470ab9760de004cfdf60cfca9632b60f.75fa7383f133cb69411bd84813d29e56&signature=e1caaf45bc7a27b6d529dcfe6eb62dbeb7ce4ba01a9e68f13f0fa4145a1ae07a
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-7/playlist.m3u8?token=2bd894a2b620a6afe3fd5ea2d37332de1b860c47bfaa5fc971217070c2e672ed.1777485575.04e365501aa08be7b5fbc9cbb2ba7c1b.955d8ce146c7e6ecbcfba4647dfa43fa.4def7db5707eb5694096a41dcb185085&signature=5a0f3642cf7ed0997d1c7fb8b2238939c291c07aebb52510be8f9104ceb37d81
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Ittihad vs Al Taawon (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al Ittihad vs Al Taawon
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=654861043a0a5d49cfa79020f81eee1cbf7bafaed4c97a18aa681302585bd4c5.1777480105.c10f837e635f5ece952771afbd95c285.ea08bb2a3a2d4357468b800be655991e.cb8232df2c6c47f027f70291b89dd08d&signature=e58c3a8bd3352a247ba5fc3dccc54bd5e58d473576bd43ba373998b2a4e24891
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=0a2374beeb5f9dc10b0eae061d6a85b0b7bcd6062d232d625dc99ead27e3ece1.1777485575.362e98bd3cab9b224569f64d87350ef7.d782945e7dcae26682a60871602fdcf5.13b4124064c8f5131f2b22d37da81889&signature=85831dc37187bdffed93e46fc89e78e41381faa321eee4c893371fe72db5a13b
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Serbian Cup] Vojvodina vs Grafičar (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Serbian Cup",Vojvodina vs Grafičar
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=28fd3cd7790b5b227bb18f2976f1472eb94659a1a2b0755a4118b74ec8a3ef7e.1777480105.f505f01378df57f577bbf3020729300f.dccbe0cc6537127fede0fa801a2c80ac.369e1422440bc80085523c15899be6e0&signature=2d6fc384439b20170c4e5a9c93ac171461001b33bd2656c9214c977914c50eea
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=c9aed6f5acb72dd062f73e2737b03d477e36b5a645cfd98a16599646b62d4c20.1777485576.59401afcecce70a2bffa4dfa6f381c85.83d62b22964c6c789ea28a644e73bcfe.48f6ac4be5e8d048eba6d90de24c2679&signature=b2623c2911241af210d0b5ff22709daa85df435d9e8a749ae01a02f35dee65ca
 
 #EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[KHL] Metallurg Magnitogorsk vs Bars Kazan (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Metallurg Magnitogorsk vs Bars Kazan
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+5&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-5/playlist.m3u8?token=7f0749b921ea81b7b50935eab8e843d6b54ebf78a8bd48603b023199d654aced.1777480108.b3b26b25039cdc0a4a4571196378ca8b.f464321057721a424a5af71a44d29c35.8e608511a14222572ba27d32030f394c&signature=e6f1e7384fda30ae577adfbb78af2bf5160e243284aa4f5d0f4756a39e85477b
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-5/playlist.m3u8?token=f0cc73ae41d7e20a803a3d6995f16368228d8c0b02df19fbdbafcdcfbd81268c.1777485579.9604e32bc08d639b7b2ed820191295f4.222f303042d6221ba8e767a277c6aec4.0c5f5876ce467ab218a247043895523a&signature=4b81cc25fa40efb79a110f56dd6a665094bcdc991c1ab08381782c0a0b734570
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Eredivisie] Almere City vs Den Bosch (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/11.png" group-title="Eredivisie",Almere City vs Den Bosch
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=nl&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=802519a4d8589cf846d201b2f2602a3783cda3fa021fde21ac5ba82542d26e0f.1777480106.363742818ccebc867696424a5120bfdf.dbb48924879d96e6bb2490a91469d737.9347f6d6bb967c517bbedd85c7068b2f&signature=74b026c5e33a0d25663e8ae3b019cc38f5840e077ca10ff1489d1955302d16ce
+https://edge.cdnlivetv.ru/secure/api/v1/nl-espn/playlist.m3u8?token=d9c0cb656da79e937d3eec3e7e748d4ede101df9499c4fba85f362c6d098e291.1777485576.1914f3444c3decb893f629b9b1089c10.e139a4899fe0f90dd613aa7e46c478fc.4432e30d59f8bc2ce18f68350719eede&signature=ce700658f8cd8b4320b5c51da91688e06424808a36d765306060da9fd3fbb485
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[DStv Premiership] Kaizer Chiefs vs Siwelele (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="DStv Premiership",Kaizer Chiefs vs Siwelele
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+psl&code=za&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=9d8fbba6d8c902b0af8a0f13d922b103a8f586ee3393fa16417209369a5f62fa.1777480107.e46b0541cbe117bc556025dfbf038df6.3c912beb45b17e83582752a8759e53df.0aaa310d22bc1fb788521008bb91926f&signature=a49524f3f835e5d3d845ea15b29f308c3c6867e33588062446f32587dc531235
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-psl/playlist.m3u8?token=f98e7a000b5f0e2d0b1b12b94ecce2afbc44dc2fbfec5059526837d190af5a73.1777485577.2bb378ef165fa1aa742f69ddda38607c.f5da7fd76759701108fd71c9b7a8025b.e80cca0ee56782072b4678cf6a890b74&signature=e1522fb16d99b369e62bccbaf9eef8c66e4fb791b782355c56352b744959ff5c
 
 #EXTINF:-1 tvg-chno="8" tvg-id="Live.Event.us" tvg-name="[Pro League] Al-Ahli vs Al Nassr (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al-Ahli vs Al Nassr
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+sports+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=db3c3edee14bfc898f86941a887ef96c4cc48065c6bcedfe9e7be7d069c945ea.1777480106.d8fe4bf4ebc85c8d802607b1389a3d86.9509414ac9d7d9a85aec4d3ce31263c0.72c58d1f8d937a9c101365058a4bf6b9&signature=3b9da2280f6120db98b5253561e5cb14e6896ef4b1e5bbcb9fff64ea03a0e813
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-sports-2/playlist.m3u8?token=7a9487bb3763398c515ec33e3220ac35767768450373ef7ad2974edd97881848.1777485577.be7db74b492bf00ee51a614161fbe4da.835acb621dab57af2bed989c90e4a49b.239407bec0c1352094cb7db2bc46553c&signature=b8010bb0a9f61f07f3ca70cfabccdd50ff45a74841287655ac69b1d6f0c24414
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Primeira Liga] Tondela vs Sporting CP (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png" group-title="Primeira Liga",Tondela vs Sporting CP
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+1&code=fr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/fr-bein-sports-1/playlist.m3u8?token=f5f44e1dabb4f7c766b6f32c9ea959991df3de79db77fbf34fb0875b014f5046.1777485578.8366cd3767a306eae1e0c6143dcbeaab.cbda4e920cc0392818e09e1208609b52.fc4030aac33d7814f740afcf81df7432&signature=d6b0532f13a9cc48c5a7c968e6b15578cab2acf2c980004e0f3381ac39cfe77d
 
