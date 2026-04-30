@@ -1,31 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Afula vs Hapoel Acre (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Afula vs Hapoel Acre
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=c9bdb766d025d1bdc68970095ff264a0e26661a367f0963d7f29e15d82f7449e.1777566008.283b97754500ffa4dd62cc8e5e71a7e9.5c0674d8e1714bf42d69c71dfbeedf87.9cfee9be0102eed923466c02f7195af5&signature=e88064eb08379c5198a9cca66aeae5f9efb382eac67634a61700004f549b79b2
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Hadera vs Hapoel Nazareth Illit (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Hadera vs Hapoel Nazareth Illit
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=15d7b1dcf32df11851716711aeddb58a2f19adc91062be41428f474dc42e9c05.1777566009.6544e8142f48f93171bcf58c399dec27.4754ab26d146d32b5a3dcc2563cef43b.98311c9a8287277b21ebcae0358d3b3e&signature=0d49d7811195fe0aa4bc12e16ddafd621b8b8986f6974ed012a6bed151494519
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Kfar Saba vs Hapoel Kfar Shalem (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Kfar Saba vs Hapoel Kfar Shalem
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=882d92abd258b7d0a9d5eab3ce512cf275a084872781f0b4621669e3ed49ff74.1777566010.198fa6a111e73a58d4aa7c47e46ce346.06f337ef77c2fa40ac17f6bd40279410.c6379d8655774d8b240bc525b52e163d&signature=d1c9c0f04c22aed2da4ca212215b341a06abd4b285abbcbfbec736af8fe2b67b
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Serbian Cup] Crvena Zvezda vs Jedinstvo Ub (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Serbian Cup",Crvena Zvezda vs Jedinstvo Ub
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Serbian Cup] Crvena Zvezda vs Jedinstvo Ub (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Serbian Cup",Crvena Zvezda vs Jedinstvo Ub
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=7dca27d0d02ed30fc8768224df1145f075f6c847d840b26227b535ccbdf288a6.1777566011.c363a518fd4ccde0d9e1ff4931b4fc75.e5960d53c8dfaaa686880490d710b112.2080beda7b0bd04f9c2e94bc84d607ca&signature=a6ae901460caa0c164f48d68a09dcd3e6309fea8eeac837f6e6849ba954a3e85
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=160f9729c2fd3549cd90b3d59f12fc99d67706a0d0afb6aab0eeaf024bf91d04.1777571454.431b7ea77c605a1b594cf47fdd2111e3.be5e50a9ed884f5f934a7c72f1310202.1a2ab759d2145d0d0358eb2c0a304fd7&signature=3ced5e9cf797bce2f2aced3eecf42f8c1773f9eeb1293e8efb6f88da528a5985
 
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[SHL] Skelleftea vs Rogle (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="SHL",Skelleftea vs Rogle
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[SHL] Skelleftea vs Rogle (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="SHL",Skelleftea vs Rogle
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=7a0d6890cbca06a9f737492d7a3dd471b6cbbbd2fd21c404a5e423ea1ec9dc2d.1777566012.eee9f5bc927fb816a3420cedd026f4b7.dec853c4a6dfdab43e02e51a7962d78c.17c26f4b59870772ee8c37cc014738d2&signature=cb0b9744b359bc35017b5bb985d88d0953243c2a48132492912b9d9ae1c66e68
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=08172120a1b21706d1e67c2f3ceb1096a29c3456bc92e05551c5d8d91858067f.1777571457.e167f382aa948a33a3c570789e5dfb45.7c36774a502fb1e04d06fcb7da85b3f3.deef3b154e09fc42a1e44b23c9fff551&signature=812c1b2371834c23019fec46b8f8ddd2ca0374b01cdaa248510f1cb720c8e4fc
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Freiburg vs Sporting Braga (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="UEFA Europa League",Freiburg vs Sporting Braga
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-2/playlist.m3u8?token=e8307e0c9cebfb47dd12dc650103230fc149441b6542af24087fb06994247c52.1777571455.f9b06c39cc1d507ba0771becb13e1a94.c00d365aa13134b9754b44fc076cb391.f8fd9035d2d996c0e051bc56debe756c&signature=ce4d5ab34c4cf8805b0810d5b53bf3b8c7db858ad6303646b54ecc4fc1458935
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Aston Villa vs Nottingham Forest (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="UEFA Europa League",Aston Villa vs Nottingham Forest
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=62d65089ddc7754b29c470962cf4f25d1fa6d8fb456ace756e3a80927b49ba47.1777571455.941b8094310d1559e991bcb89c06580b.639f83814099265c7a916287766a0459.45a1cba295d298a58404059ff8547f6f&signature=249d3e99e72d91378b3160f4a7f453a525b038cb473d108f5f12e42570f8f630
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Strasbourg vs Rayo Vallecano (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="UEFA Conference League",Strasbourg vs Rayo Vallecano
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=79f9b352ea9740f8966d9e6a283434ffec5b604aa796bb36f0f10e3059d02cc1.1777571456.ab5828189c5259b5cde165891b2c3a9e.e4f3e69c94ec6ed4b898112d8b5b1e97.3a2eee531bbb1256ff8a8435a9eb07bd&signature=802a1f39a1d73e217793553f63ce6c446d16c145c45998333fbcb743dabb22de
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Crystal Palace vs Shakhtar Donetsk (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="UEFA Conference League",Crystal Palace vs Shakhtar Donetsk
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=b7b5df4daec699e2f445f936d02448e5d0b980b55e8a919f3b329d6cb01cb78e.1777571456.5b2c13f272595a7269a1401ab5842e21.e867ff7a89f7391b73e64e68d34638ec.7258645aa0acbbd0f47afe0e92114a47&signature=d0f6f1c157fa336509cef7afc5f10435d88b105e84733958e525faca981e3774
 
