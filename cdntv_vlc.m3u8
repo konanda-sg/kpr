@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder vs Phoenix Suns (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="NBA",Oklahoma City Thunder vs Phoenix Suns
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nba+league+pass+2&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[KHL] Lokomotiv Yaroslavl vs Avangard Omsk (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Lokomotiv Yaroslavl vs Avangard Omsk
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nba-league-pass-2/playlist.m3u8?token=a5ecf7c507c238d8fa594b548aa11087374cbceb2a4e8dd2d68ee4669d00d7d2.1777517776.b37e8526ebc4f4f6213744891e8aa644.7315dd161cc3dbb187a503aae5362dc7.8d3857c595b41c450b6391d960f6e19e&signature=648a31db2a448a34855cac4882459050d23cc402af35efb5fbd9e9c1dd0a97c5
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Nacional vs Universitario (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Nacional vs Universitario
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=792b9e1078396bd18fc7b84f332bd4eaa3ce801d5d7598043e166b8fe2ab576c.1777517775.f13077b38ff60254382acaceb4972354.e85087fa6dfc118d95b2e731a4ecb361.43210fa53853d82260b3ae4ebf03278d&signature=3d1b78ba3745d40aa9f7498da59a9691abcdff243c7f839b930564a0cf89c128
-
-#EXTINF:-1 tvg-chno="3" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Los Angeles Lakers vs Houston Rockets (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="NBA",Los Angeles Lakers vs Houston Rockets
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nba+league+pass+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nba-league-pass-2/playlist.m3u8?token=d9b5b42852fa6330f58b12a8997a52c818566f253d3c36d330c1ad3943ebb880.1777517776.066e1641152c8911cd54d2eedad0ceac.e2a73555416592e4863536bcd12fc5c7.512fdd74923b6d97c094c88468b69e65&signature=28da1f3770a4d52cd64813003c0dcb854255e9dee1ccd9f45443f78236e4cf08
-
-#EXTINF:-1 tvg-chno="4" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Utah Mammoth vs Vegas Golden Knights (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Utah Mammoth vs Vegas Golden Knights
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+1&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-1/playlist.m3u8?token=8b999b342ebae19efc258554e2ee9c50d4d2c86e3bcbcbf403120b3eeb56abdc.1777517777.50724b6cde49ff9c486e1b57ccaf3b1c.2a8213565f4b59779e6c5690a4fddef4.6be4505eea055dac2c1e7718545bce83&signature=7d162076173fcbaf7a154e123de1e5a6d9ecf220bafc0741627b98bee3e475b0
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=4b7f0c3b31f93137e8d95b732ce88422cbf5e0cef8e176e6294b5c4a19adae9a.1777551419.9b1c49ecf840e54728955a469950c525.b2264f93105990bfb2310acc479cce15.51cc897c42d6bed821daa41acc7554ed&signature=d40d338e956f746f816e98030642320b4d9b1782a2414865930dfda61e2b8d6b
 
