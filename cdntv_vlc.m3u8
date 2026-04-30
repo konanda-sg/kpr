@@ -1,25 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[KHL] Lokomotiv Yaroslavl vs Avangard Omsk (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Lokomotiv Yaroslavl vs Avangard Omsk
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=2c657ffe7cdad0e07c58daf1ffddcb1af77330259d85620c429dbece5cedc2cf.1777559644.3468e924ea2bd56260e39c7c8609f397.391f4f0cb6b6219b365a86cf2834836e.0113b9d0134c011c488763204e6addcc&signature=4e01aa112fba0f1242df9fb2a3bb1f09c845cda11a6b1088fe240f34ce8eaa40
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Afula vs Hapoel Acre (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Afula vs Hapoel Acre
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Afula vs Hapoel Acre (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Afula vs Hapoel Acre
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=de109c9be9cf5c5595aa3de91aa4fb84ef01eb13ca87036d2b31160e78c6835a.1777559642.80df511f64d77f54fa976433ebc27e98.c5e1676a3d8b8d2779174e7566ffa058.2c26edf8c88cf8a9756b7a305c50881f&signature=37c690677fe97abc92e706029cc7fe81107ba6069f056a10936ddc1071e9cc01
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=c9bdb766d025d1bdc68970095ff264a0e26661a367f0963d7f29e15d82f7449e.1777566008.283b97754500ffa4dd62cc8e5e71a7e9.5c0674d8e1714bf42d69c71dfbeedf87.9cfee9be0102eed923466c02f7195af5&signature=e88064eb08379c5198a9cca66aeae5f9efb382eac67634a61700004f549b79b2
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Hadera vs Hapoel Nazareth Illit (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Hadera vs Hapoel Nazareth Illit
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Hadera vs Hapoel Nazareth Illit (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Hadera vs Hapoel Nazareth Illit
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=838b387376ea5b683e6503170658a5b7aded6bab4e87c46d6d8dca3afd281eaf.1777559643.08cb01ed082ceb18c1bdac7ac954db8c.25e116e3e7f5e253f5429deda01a9330.8dc992d9ba3f90939185ab47e4ffb89e&signature=165d1b8dc2d759cc495cafadd3009b0593203757479ac660697c170579a14c87
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=15d7b1dcf32df11851716711aeddb58a2f19adc91062be41428f474dc42e9c05.1777566009.6544e8142f48f93171bcf58c399dec27.4754ab26d146d32b5a3dcc2563cef43b.98311c9a8287277b21ebcae0358d3b3e&signature=0d49d7811195fe0aa4bc12e16ddafd621b8b8986f6974ed012a6bed151494519
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Kfar Saba vs Hapoel Kfar Shalem (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Kfar Saba vs Hapoel Kfar Shalem
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Kfar Saba vs Hapoel Kfar Shalem (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Kfar Saba vs Hapoel Kfar Shalem
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=ba1c54f87dd1063f184e4f56573027bd91811893f375ea7e644b570ae3749d3c.1777559643.523b210e9530ead30566f66485d5f6f3.3017e1596073c00f75d72fe4356916dc.e9ac6426e42379b83a827c1295a526b3&signature=6bfb9fe166280fb321d770f60fc1271b010d18d2337250d263582e24977a5d8c
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=882d92abd258b7d0a9d5eab3ce512cf275a084872781f0b4621669e3ed49ff74.1777566010.198fa6a111e73a58d4aa7c47e46ce346.06f337ef77c2fa40ac17f6bd40279410.c6379d8655774d8b240bc525b52e163d&signature=d1c9c0f04c22aed2da4ca212215b341a06abd4b285abbcbfbec736af8fe2b67b
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Serbian Cup] Crvena Zvezda vs Jedinstvo Ub (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Serbian Cup",Crvena Zvezda vs Jedinstvo Ub
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+1+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-1-premium/playlist.m3u8?token=7dca27d0d02ed30fc8768224df1145f075f6c847d840b26227b535ccbdf288a6.1777566011.c363a518fd4ccde0d9e1ff4931b4fc75.e5960d53c8dfaaa686880490d710b112.2080beda7b0bd04f9c2e94bc84d607ca&signature=a6ae901460caa0c164f48d68a09dcd3e6309fea8eeac837f6e6849ba954a3e85
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[SHL] Skelleftea vs Rogle (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="SHL",Skelleftea vs Rogle
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=7a0d6890cbca06a9f737492d7a3dd471b6cbbbd2fd21c404a5e423ea1ec9dc2d.1777566012.eee9f5bc927fb816a3420cedd026f4b7.dec853c4a6dfdab43e02e51a7962d78c.17c26f4b59870772ee8c37cc014738d2&signature=cb0b9744b359bc35017b5bb985d88d0953243c2a48132492912b9d9ae1c66e68
 
