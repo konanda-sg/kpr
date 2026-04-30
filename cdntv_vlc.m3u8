@@ -3,5 +3,23 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+1&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=4b7f0c3b31f93137e8d95b732ce88422cbf5e0cef8e176e6294b5c4a19adae9a.1777551419.9b1c49ecf840e54728955a469950c525.b2264f93105990bfb2310acc479cce15.51cc897c42d6bed821daa41acc7554ed&signature=d40d338e956f746f816e98030642320b4d9b1782a2414865930dfda61e2b8d6b
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-sport-1/playlist.m3u8?token=2c657ffe7cdad0e07c58daf1ffddcb1af77330259d85620c429dbece5cedc2cf.1777559644.3468e924ea2bd56260e39c7c8609f397.391f4f0cb6b6219b365a86cf2834836e.0113b9d0134c011c488763204e6addcc&signature=4e01aa112fba0f1242df9fb2a3bb1f09c845cda11a6b1088fe240f34ce8eaa40
+
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Afula vs Hapoel Acre (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Afula vs Hapoel Acre
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=de109c9be9cf5c5595aa3de91aa4fb84ef01eb13ca87036d2b31160e78c6835a.1777559642.80df511f64d77f54fa976433ebc27e98.c5e1676a3d8b8d2779174e7566ffa058.2c26edf8c88cf8a9756b7a305c50881f&signature=37c690677fe97abc92e706029cc7fe81107ba6069f056a10936ddc1071e9cc01
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Hadera vs Hapoel Nazareth Illit (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Hadera vs Hapoel Nazareth Illit
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=838b387376ea5b683e6503170658a5b7aded6bab4e87c46d6d8dca3afd281eaf.1777559643.08cb01ed082ceb18c1bdac7ac954db8c.25e116e3e7f5e253f5429deda01a9330.8dc992d9ba3f90939185ab47e4ffb89e&signature=165d1b8dc2d759cc495cafadd3009b0593203757479ac660697c170579a14c87
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Kfar Saba vs Hapoel Kfar Shalem (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Kfar Saba vs Hapoel Kfar Shalem
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=ba1c54f87dd1063f184e4f56573027bd91811893f375ea7e644b570ae3749d3c.1777559643.523b210e9530ead30566f66485d5f6f3.3017e1596073c00f75d72fe4356916dc.e9ac6426e42379b83a827c1295a526b3&signature=6bfb9fe166280fb321d770f60fc1271b010d18d2337250d263582e24977a5d8c
 
