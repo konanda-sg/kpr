@@ -1,37 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Freiburg vs Sporting Braga (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="UEFA Europa League",Freiburg vs Sporting Braga
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-2/playlist.m3u8?token=17e685c77ed95e85b9628e6c8d982d6699c346e6edb3d0c89e918439e649010b.1777581569.c46cc4a31f987f235d952e43e866f9b2.0015f0e5fa64e6b8a91bc568749603c5.8287469d253547d158700a488999aa92&signature=19d00ec653d3f48af438dcf3024f2e6b64f608e7a5ae7e9d000645318b939aaf
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Aston Villa vs Nottingham Forest (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png" group-title="UEFA Europa League",Aston Villa vs Nottingham Forest
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=7d45dfe25f1d06899e22f769b93355d9d6fac8037f64da60362685fdb9a47667.1777581569.7ad6d151ff952b86fa0fcab800a8aeb4.bafcaca823bd455c5df8edbc46cf2c64.10878fe187854fb6b01339f95a78b820&signature=7f068eeb309c72e98e279ef7bbeac043094ac50b8d20323afe18510f68470ad1
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Strasbourg vs Rayo Vallecano (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="UEFA Conference League",Strasbourg vs Rayo Vallecano
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=supersport+laliga&code=za&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/za-supersport-laliga/playlist.m3u8?token=48393cc4b03f78242ef6032f987ced626689dd512822532156de34a9eba18a77.1777581570.fc4d060e239072e6c1ed6d13149d874d.d7103da036e9cf0258941d67896cbc4c.f3a29b3e3ebefa5a8d955db658802f71&signature=1cc0aa268401d63c135b0acb0d91e939e9dcb8850e50eb781bba1e35d0010335
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Crystal Palace vs Shakhtar Donetsk (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png" group-title="UEFA Conference League",Crystal Palace vs Shakhtar Donetsk
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+3&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-3/playlist.m3u8?token=0d3b89c5d5efd63472b1e1718b8507d512720b877ff993339e9197fadef80881.1777581570.234b479ac79da95ff93e89c021d82003.64ca130fd00a9cb7ef47b28e613596c0.a2ab1542b53c7cf736ea64435726bd2f&signature=f614ee7e8b6f1bc7d0a41114d50587c51429c881550696017048df266928b0c3
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Fluminense vs Bolívar (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Fluminense vs Bolívar
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=073f23106438bbde02160b118aaa22fec96e5ffdd5894cfc4563a74377bf20a2.1777581571.2530d4a34061af79b1df4cd33db43dae.babca997c049baebeac140630cc29396.7da0e855c73d8ddd716ec69ced67e1eb&signature=0820f9271261a405e5184303dacead61f8f0bd5e83aa7843f3b01b2bbc18529c
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Deportivo La Guaira vs Independiente Rivadavia (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Deportivo La Guaira vs Independiente Rivadavia
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Deportivo La Guaira vs Independiente Rivadavia (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Deportivo La Guaira vs Independiente Rivadavia
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=8dd72284793f349b6b78f1504061e3bcc40df47ab45f63eeb61d79ecdfe3d132.1777581571.346309e1946c1fce131bdbbd86c8e004.0135c32bdba4b11e983dc5432f3a1e11.46069728dc80a0a050e5379c50ca1e8c&signature=ded1765006131ec5fcbc6f917ba86530edc238faf0e9d111aacbb970f31ab3f5
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=dc611a7423389fcc76d1d2e6adbd9283f1de00c28d7f8375ed9ee77b62d85662.1777586228.2aede9d97c46873b510e303791ad170b.f73c2be4e427b209825b5ef46f0c69fa.62b54b749135d10de182d0c66a722096&signature=99e25256bb2059c7839cadad8e2138d481af44ccd9379d743561ab67e68a1ee6
+
+#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Dallas Stars vs Minnesota Wild (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Dallas Stars vs Minnesota Wild
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-tnt/playlist.m3u8?token=2da09a0dc776a5ff7ec4a09e4888cb67b323eb76ca7a518abf55dfe7702595ba.1777586230.5e2a17833a5eb5738a35c17191dd436d.b663ee60556e6ab7623fd0e10e8b1a18.bb66764dc142674ab126890f908f5970&signature=b2b61118df24b76145799c0218a8142129d2786bdcdd6f60d963231dcb064d96
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[College Baseball] Alabama vs Vanderbilt (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Baseball",Alabama vs Vanderbilt
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=a9a569ee4f26ebfbe498ce16d6231a9e08c47694867bea4fc7fdb043402c604a.1777586230.02eb5e86a22552ddf00558c70c601789.d5f1bcb55346c5e1969902e5ae79ccc4.e59a12dd685f8bbb26544d41bf96d177&signature=0a01ebd7f03aa9132562f06db2b7709e43d618794fcbc54af1064fcbf45de54f
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[College Softball] Texas A&M vs Arkansas (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Texas A&M vs Arkansas
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=6d771c5b1a933b5c3825551f16a4b1a879e6122e5302f26c865a04fb00b17445.1777586231.7a5eb5a4d87022c7857c5331677386c1.f9d47e2e0b1026ed488ad87c35fb480b.a364ef1aecef3bd610f2bf8cd94abaca&signature=97880523539b178181e179e818d4d269fdf30cc1688b299bc88931e648c1e1b9
 
