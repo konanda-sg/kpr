@@ -1,43 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Fluminense vs Bolívar (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Fluminense vs Bolívar
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Cusco vs Medellín (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Cusco vs Medellín
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=6cf63ca5dc4b69ae5d24dd6e321bac2eec36b612f77a5ab1422a9243b5af60d5.1777593249.4db8db01a94b93550e37a835666b7747.1bf691d00d6bc477b9716da605559dec.6cf80f2de2ad8f55fdd3736adfcc1789&signature=f8e704e5222a8580577f8f039a06ff699142f95e6a5c1eb29e8706e190c795c1
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=93267eb99be69d5e6a0c1b3129dceba53b190ae190ab9c5c146271899e74d4e3.1777606079.9923bb0c8ba872eee45d3e1777cceb29.7bd657418d749ed4f2c9c865056ee017.512bb3bf4769b191ea3a622f2880cd38&signature=09b421c259458f5eb49c861643bf8125b717a43ba282ad128e61ddcdd9f339d7
 
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Deportivo La Guaira vs Independiente Rivadavia (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Deportivo La Guaira vs Independiente Rivadavia
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports+mena+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports-mena-2/playlist.m3u8?token=8af4bd175b9415e4c67a83d59524d499d3f5e091bf309d726336344c192db75f.1777593250.6a2ca41a53563234a13eea915a51e46a.4266b9658830119e0f0006658d3bcea5.0289e6318ee1b06c0a65adeedbb65470&signature=a38586b9b61b0b4383425446504f84118007f0073a4120f2309c5d53efc57223
-
-#EXTINF:-1 tvg-chno="3" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Dallas Stars vs Minnesota Wild (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Dallas Stars vs Minnesota Wild
+#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Anaheim Ducks vs Edmonton Oilers (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Anaheim Ducks vs Edmonton Oilers
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tnt/playlist.m3u8?token=292a9726ea7cb5849b545a9238c8611ceb67fe4531b0d978857e6af159448623.1777593252.bac91276d26c593db075da26f56da362.8dcf1f3436fe0acf0eb41dd98073590e.d4c7d1a82c1eb1afff86c9e431e8e000&signature=5ed2a6ef69c0e3dbe771d56cd2a0b91050b8f00fd00ab0c0e51677ee90d299ad
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[College Baseball] Alabama vs Vanderbilt (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Baseball",Alabama vs Vanderbilt
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn+2&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn-2/playlist.m3u8?token=3c02b574af67d39b06cdb51b1aacf2d620aba722485a2cf4d8d0ed768c7075f4.1777593253.afe7d9e32a67209e54ee9d4cc61f5f52.b8a25371636ebc7b125f46200f9eb34f.0bd23dd0908d5d3b70e39f6d4bdfebd5&signature=b1ab22baa943102d4310e46f8513883bcd2714070724ffda7464622c8d72a1d8
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[College Softball] Texas A&M vs Arkansas (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Texas A&M vs Arkansas
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=b9ec636faf2e900b1d48fc9ba33c2b0fb4d5b7cbb37a9b539932f6d857cc29d9.1777593253.b3c83817e5b24850517f043069eafeab.1138c251fb866bda61c6c0641b9468e2.405da0c999b094187cd97abca28db61f&signature=222ee7575af47d193d6e04d6286583d90040a3b7152dd1b578e0e2fb932fd624
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Peñarol vs Corinthians (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Peñarol vs Corinthians
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+1&code=de&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/de-sport-1/playlist.m3u8?token=8ff67d2f6d5c97a1f6cc843b229f6b392fc62fcc68fa831952c053da1d3707aa.1777593251.cdb9f1d320035b5822e549a1f5e605d1.b28f0b5ac1078fecfe8e1c0f61f8ec32.5d72d7dbda8ad059de72b8e60bad59ab&signature=7e8310f14016ce94ed5d07ebb7439595660f3c6c38c88fe8695ff07edfa406bb
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[College Softball] Texas A&M vs Oklahoma (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Texas A&M vs Oklahoma
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=113081754b1e37014b470e5e2663a27b7588a27e2e9882e3b4d69157a7b4eb07.1777593254.8e9a29a684609b0d564ce22cee441667.59ae571c59a5fcc69021a811a16d8c35.3fd6f08c11ccca5341964bdcfa7aaca9&signature=1397a0e73f2d267b362ae26699a0f563a606df29741b5c80aaaae3b89a55f1b6
+https://edge.cdnlivetv.ru/secure/api/v1/us-tnt/playlist.m3u8?token=efb38590d6d71595bcdc5f43b4441797ce7b0df8f766fa82a81073884f5ebeb5.1777606080.1f5523cc53b2cda5c0313f58f332f08f.899568811d0a3f1bdf98a4bd5b6c531c.a6d35581572043c6d2283f756ba7aab3&signature=5fa2be7b59ffd5f70aa8b8d570bb11bcca66e28bc436f59b33a31d50ad42376e
 
