@@ -3,11 +3,41 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=1cd991142c12c26aefad2c4a7012ca86367d594c781594c0929a3888e6862fb1.1777630135.596f2dbb1db173717f34a929658f282f.d96223abdf022f61755219cb8bd160be.0f8827fde0ac693b829a76a107eb68f8&signature=326468764095e616d7a5ead7f7adf35e789ec4a1cdaeb8072298e6876251c999
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=a98e0098ab6af8798776fccafb83b26c946ddeb5e1518cd870f2b7390d5cb949.1777635587.1106b3046262132e0248110f19596335.73e3a5be0f443b7a33d0e7e03922f62f.3212fc4163e67dedc0069f4e51206eba&signature=edfa35ebfc26bdd561d8204f2e614f59c9eb715916245fa4e706a792e6f4bbd3
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[KHL] Metallurg Magnitogorsk vs Bars Kazan (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Metallurg Magnitogorsk vs Bars Kazan
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-10/playlist.m3u8?token=4955f31a856fae04bb949f1c1e291525835976e837a9dcf9c567c4e68700c797.1777630137.790811492914571dd2ee7b2c209d250e.17dd4b06236e47fc806fe0cd6de7b90a.81caa4ea82ffcd2b74e95b80496798b1&signature=0740f7b1a2ed2d83154e78baa8d56d8c2bb797316bc52895ea60feb7c8c02533
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-10/playlist.m3u8?token=0086ffeced07bf63289ad1d429381765fead9c7d414cd3de2ac06ff6b6aa40f5.1777635591.22290d25440abbdeaef05c639d7b8c86.eada7428e25a322689c5b827538a9330.c59300e728984c80d176ff0422eaf272&signature=ecd4fe99ef4a6668fbbdc52b41bf899909454398e46f7791479aadf84d841099
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Serie B] Cesena vs Carrarese (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="Serie B",Cesena vs Carrarese
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=viasat+vinter&code=se&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-9/playlist.m3u8?token=796c4f15fc428475294d46dff2e9991400bd206271d118306ddcbb42231217d7.1777635588.08dee24723c7356031bf71f114b1bcb0.0a4b1ac99f7257a458ef90a5fc4ea448.1e4d12bec8d54e1859fdcc9d8e302d8f&signature=7e1b8340b73820b92cfd49d7a2bf016e8b8b0e2e7bbbf15adebf269334ddd987
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Serie B] Catanzaro vs Palermo (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="Serie B",Catanzaro vs Palermo
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+soccer+plus&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-soccer-plus/playlist.m3u8?token=9912da9ed32e2e2a5453bd90fcc5b2c31baf82b2edaa6352c27f7371eb402543.1777635588.83c6d6aab5d3879a106bf926fbd4d5ca.f92df1133d4be4f1d19ac83ae049987e.55b5e3b74484e6164298b6b6073e330e&signature=4f9584d17a564c5d2eb6c17df27c1cc472ce53f7e296f8b6a61c1dea4f463fdb
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Serie B] Avellino vs Empoli (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/99.png" group-title="Serie B",Avellino vs Empoli
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+3+premium&code=rs&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/rs-arena-3-premium/playlist.m3u8?token=6384da0974a71bccaa1d4c6e53571cb35e768b6a747a65c52c59c486e318d7b3.1777635589.1cc0bbfcde21f486932bad648b301f06.6c0fc8e397bcba95f94ca681711bba28.1bc35de2d2aa0706c34f46cf75183174&signature=a81a68226884644cf3ae462eef7d41cbaf920dd006a86743d5e498bb6a2aa531
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Rishon LeZion vs Bnei Yehuda (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Rishon LeZion vs Bnei Yehuda
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=76879421f3cca563e63c8b518bcee64089d6de6ae1e6923207abb9ef9f2b725b.1777635590.3046a7f0892559ae9bb076de8a9fee4a.52282d3b05682c1cc94786348244534d.16819fdc7b4ddfeecac851bfc313a861&signature=b0a4779971ed22b166233bf5b25429ce6f5808335480e53dbb1295d03cfe5631
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Maccabi Herzliya vs Maccabi Petah Tikva (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Maccabi Herzliya vs Maccabi Petah Tikva
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=ca97509d965dce51e398ab2a967fb40a3c009788951e8668b06cb50a178e521d.1777635590.cfb981af449c11f8fbdcd01b6ec2142f.c58c2db3ea39c712a1071503611fd0b9.9ae67bd1b90c999b872b76359a28447a&signature=5344c36fbac66a48a01689113f33933c0e7402a0e8ec2163fef0bea1ba8c1349
 
