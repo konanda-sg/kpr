@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[Copa Libertadores] Cusco vs Medellín (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="Copa Libertadores",Cusco vs Medellín
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[FNL] Spartak Kostroma vs KAMAZ (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FNL",Spartak Kostroma vs KAMAZ
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=93267eb99be69d5e6a0c1b3129dceba53b190ae190ab9c5c146271899e74d4e3.1777606079.9923bb0c8ba872eee45d3e1777cceb29.7bd657418d749ed4f2c9c865056ee017.512bb3bf4769b191ea3a622f2880cd38&signature=09b421c259458f5eb49c861643bf8125b717a43ba282ad128e61ddcdd9f339d7
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=1cd991142c12c26aefad2c4a7012ca86367d594c781594c0929a3888e6862fb1.1777630135.596f2dbb1db173717f34a929658f282f.d96223abdf022f61755219cb8bd160be.0f8827fde0ac693b829a76a107eb68f8&signature=326468764095e616d7a5ead7f7adf35e789ec4a1cdaeb8072298e6876251c999
 
-#EXTINF:-1 tvg-chno="2" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Anaheim Ducks vs Edmonton Oilers (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="NHL",Anaheim Ducks vs Edmonton Oilers
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[KHL] Metallurg Magnitogorsk vs Bars Kazan (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="KHL",Metallurg Magnitogorsk vs Bars Kazan
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nhl+league+pass+10&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-tnt/playlist.m3u8?token=efb38590d6d71595bcdc5f43b4441797ce7b0df8f766fa82a81073884f5ebeb5.1777606080.1f5523cc53b2cda5c0313f58f332f08f.899568811d0a3f1bdf98a4bd5b6c531c.a6d35581572043c6d2283f756ba7aab3&signature=5fa2be7b59ffd5f70aa8b8d570bb11bcca66e28bc436f59b33a31d50ad42376e
+https://edge.cdnlivetv.ru/secure/api/v1/us-nhl-league-pass-10/playlist.m3u8?token=4955f31a856fae04bb949f1c1e291525835976e837a9dcf9c567c4e68700c797.1777630137.790811492914571dd2ee7b2c209d250e.17dd4b06236e47fc806fe0cd6de7b90a.81caa4ea82ffcd2b74e95b80496798b1&signature=0740f7b1a2ed2d83154e78baa8d56d8c2bb797316bc52895ea60feb7c8c02533
 
