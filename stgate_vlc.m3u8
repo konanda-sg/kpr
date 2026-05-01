@@ -1,48 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Atlanta Hawks vs New York Knicks (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Atlanta Hawks vs New York Knicks (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NBA1/index.m3u8?st=U-z6gsbXmkZfkZFcZqMdcw&amp;e=1777683625
-
-#EXTINF:-1 tvg-chno="2" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Philadelphia 76ers vs Boston Celtics (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Philadelphia 76ers vs Boston Celtics (STGATE)
+#EXTINF:-1 tvg-chno="1" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Philadelphia 76ers vs Boston Celtics (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Philadelphia 76ers vs Boston Celtics (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA2
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NBA2/index.m3u8?st=Xv4qde7hKYZ8Vb43tYQEDg&amp;e=1777683626
+https://instreams.pro/US/NBA2/index.m3u8?st=oamyjwMaHTyDgzT0sUX0Ng&amp;e=1777687324
 
-#EXTINF:-1 tvg-chno="3" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Minnesota Timberwolves vs Denver Nuggets (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Minnesota Timberwolves vs Denver Nuggets (STGATE)
+#EXTINF:-1 tvg-chno="2" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Minnesota Timberwolves vs Denver Nuggets (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Minnesota Timberwolves vs Denver Nuggets (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA3
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NBA3/index.m3u8?st=cg8BWZCNj6P7GpMGJLsv_A&amp;e=1777683627
+https://instreams.pro/US/NBA3/index.m3u8?st=-HIMgt6iPVx0CzOpHTB9rQ&amp;e=1777687325
+
+#EXTINF:-1 tvg-chno="3" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Orlando Magic vs Detroit Pistons (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Orlando Magic vs Detroit Pistons (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.live/US/NBA1/index.m3u8?st=S5A88xu0JYp0CRqIFHJ_5A&amp;e=1777687326
 
 #EXTINF:-1 tvg-chno="4" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Minnesota Twins vs Toronto Blue Jays (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Minnesota Twins vs Toronto Blue Jays (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD20
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/US/NFLHD20/index.m3u8?st=sL-hQNSdtYxLNZT6dFVqKA&amp;e=1777683628
+https://instreams.pro/US/NFLHD20/index.m3u8?st=G8wwUQpinEyWbQ-gpLsctA&amp;e=1777687327
 
 #EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Chicago Cubs vs Arizona Diamondbacks (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Chicago Cubs vs Arizona Diamondbacks (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD10
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NFLHD10/index.m3u8?st=d9zIGF8eoim-W4JPT1CvDg&amp;e=1777683628
+https://instreams.live/US/NFLHD10/index.m3u8?st=LzBaRax9s3M1uIAwSvE8sw&amp;e=1777687328
 
-#EXTINF:-1 tvg-chno="6" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Minnesota Wild vs Dallas Stars (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Minnesota Wild vs Dallas Stars (STGATE)
+#EXTINF:-1 tvg-chno="6" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Pittsburgh Pirates vs Cincinnati Reds (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Pittsburgh Pirates vs Cincinnati Reds (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD11
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.pro/US/NFLHD11/index.m3u8?st=8E7nb0AOiNf7qm_g-l2l5Q&amp;e=1777687328
+
+#EXTINF:-1 tvg-chno="7" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Detroit Tigers vs Texas Rangers (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Detroit Tigers vs Texas Rangers (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD12
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.live/US/NFLHD12/index.m3u8?st=WszIexz7PwQVCvb9WH5uOw&amp;e=1777687329
+
+#EXTINF:-1 tvg-chno="8" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Washington Nationals vs Milwaukee Brewers (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Washington Nationals vs Milwaukee Brewers (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD13
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.pro/US/NFLHD13/index.m3u8?st=xPmre34RCZPp_nbII70QSg&amp;e=1777687330
+
+#EXTINF:-1 tvg-chno="9" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] New York Yankees vs Baltimore Orioles (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] New York Yankees vs Baltimore Orioles (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD14
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.live/US/NFLHD14/index.m3u8?st=8DzP7xsdXCspdTt2U2UaIQ&amp;e=1777687331
+
+#EXTINF:-1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Boston Red Sox vs Houston Astros (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Boston Red Sox vs Houston Astros (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD15
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.pro/US/NFLHD15/index.m3u8?st=wSeuz1J0VBhkss5xX7I-5w&amp;e=1777687331
+
+#EXTINF:-1 tvg-chno="11" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Miami Marlins vs Philadelphia Phillies (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Miami Marlins vs Philadelphia Phillies (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD16
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.live/US/NFLHD16/index.m3u8?st=gn2Zhj-8j5n3m2cVam9Hrg&amp;e=1777687332
+
+#EXTINF:-1 tvg-chno="12" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Major League Baseball] Tampa Bay Rays vs San Francisco Giants (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Major League Baseball] Tampa Bay Rays vs San Francisco Giants (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD17
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.pro/US/NFLHD17/index.m3u8?st=gPzfZQ0AoC61L6JvAzkARw&amp;e=1777687333
+
+#EXTINF:-1 tvg-chno="13" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Minnesota Wild vs Dallas Stars (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Minnesota Wild vs Dallas Stars (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NHL1
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NHL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/US/NHL1/index.m3u8?st=bFzWVhKxWn3XUvRBVIrkSg&amp;e=1777683629
+https://instreams.live/US/NHL1/index.m3u8?st=oGFLQ1A8ZaIEEz8wSBd5IQ&amp;e=1777687334
 
-#EXTINF:-1 tvg-chno="7" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Anaheim Ducks vs Edmonton Oilers (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Anaheim Ducks vs Edmonton Oilers (STGATE)
+#EXTINF:-1 tvg-chno="14" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Anaheim Ducks vs Edmonton Oilers (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Anaheim Ducks vs Edmonton Oilers (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NHL2
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NHL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/US/NHL2/index.m3u8?st=jIacSsgQOb9qqPixNsJr4Q&amp;e=1777683630
+https://instreams.live/US/NHL2/index.m3u8?st=eFvaUa22uvM8i0zsRK6lKQ&amp;e=1777687334
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Crypto.com Miami GP vs — (STGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Crypto.com Miami GP vs — (STGATE)
+#EXTINF:-1 tvg-chno="15" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Montreal Canadiens vs Tampa Bay Lightning (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Montreal Canadiens vs Tampa Bay Lightning (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NHL1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NHL1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.pro/US/NHL1/index.m3u8?st=o881Fu_a3vJlfvBrjPoUtQ&amp;e=1777687335
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Racing.Dummy.us" tvg-name="[Formula 1] Crypto.com Miami GP vs — (STGATE)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo-500x281.png" group-title="Live Events",[Formula 1] Crypto.com Miami GP vs — (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD29
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NFLHD29/index.m3u8?st=qOASr1St_qIxlukfvlICwg&amp;e=1777683631
+https://instreams.live/US/NFLHD29/index.m3u8?st=ZsgrS3LGBLMqzRLJ5zMoFQ&amp;e=1777687336
