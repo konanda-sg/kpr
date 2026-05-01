@@ -17,7 +17,7 @@ log = get_logger(__name__)
 urls: dict[str, dict[str, str | float]] = {}
 
 TAG = "PAWA"
-CACHE_FILE = Cache(TAG, exp=10_800)
+CACHE_FILE = Cache(TAG, exp=19_800)
 
 BASE_URL = os.environ.get("PAWA_FEED_URL")
 if not BASE_URL:
