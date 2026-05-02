@@ -1,31 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[College Softball] Georgia vs Florida (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Georgia vs Florida
-#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
-#EXTVLCOPT:http-origin=https://cdnlivetv.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-espn/playlist.m3u8?token=9b9f41f82574c7c87d55d92137eae6978b25c521eb80319398e2a6ccda25e883.1777738280.f8c6d42fc53dda5cdcc56986d4172aba.ceaef6c1f027fd1b0373eae536b20dd6.48c2ce16381f95b11ddef972e9ed159e&signature=a31e5c7108b2e0b9a8c025e1090ffd011189af736f9117cfd3beb509d81ec6d8
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[College Softball] Missouri vs Tennessee (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Missouri vs Tennessee
+#EXTINF:-1 tvg-chno="1" tvg-id="Live.Event.us" tvg-name="[College Softball] Missouri vs Tennessee (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Missouri vs Tennessee
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=28f6fd34f9da9afe6b2fa4f52f43489e7e64fc89e281b0a94064a7b8004629a6.1777738281.d6524ba162629eedfd43d19102ee78fe.7de2661d96933c34a7b4397de1f3bfa1.4d2a455e6ea5cdc0ce7092d9a2e7c79a&signature=bb50df8f9777a7c3cd93c17c8d0676a9dd75882f374e6702b0d34f6632f7d126
+https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=3ee94b30eb72510d2e5a6c93f25fcbd7acd13a086729948c5b17c22962ffba58.1777742664.e6497fb776ca5388ee4e46ad341f0407.0118fc3ea76818734dccf5df366d48ec.0fac45824a6c023d4033a339b9dee82c&signature=bcfe16b2baad17efc4613c7658bd5db88a0007d931b64c7d3a50ac9c1860691e
 
-#EXTINF:-1 tvg-chno="3" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs New York Yankees (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="MLB",Baltimore Orioles vs New York Yankees
+#EXTINF:-1 tvg-chno="2" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Baltimore Orioles vs New York Yankees (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="MLB",Baltimore Orioles vs New York Yankees
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=masn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-masn/playlist.m3u8?token=67a8f3155e3dfce8f9a83a47786e36f73281842aace6120accbb93fe2d5e85a9.1777738282.ae71cbf9b68e6f3a95ae0fd60847a2d4.adee2da1b3dab2e1b51ab244e04828bf.72ff3638fbb2b0912dbffb2f84e7fc57&signature=9dce604fb433f4afe33bd184d9c7e6e33b4fc30f3497d10f8cc099a9b363524d
+https://edge.cdnlivetv.ru/secure/api/v1/us-masn/playlist.m3u8?token=a7c53c0bc0b26a88c5b188d3d4fdc2f4056d89b3f4b67a34b8ef453621e0c2e8.1777742667.f714ad7f2ec40e68067d71713a1a87ec.423c1d23c938ac17b6750b0485a654d3.85b507321fc16750085b497b5d46df14&signature=229da7da93870d3f6de5421d60b68e086b00cbbefa76b73118690a97a373b8f8
 
-#EXTINF:-1 tvg-chno="4" tvg-id="Live.Event.us" tvg-name="[College Softball] Penn State vs Nebraska (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Penn State vs Nebraska
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[College Softball] Penn State vs Nebraska (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Penn State vs Nebraska
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=btn&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-btn/playlist.m3u8?token=503943bd51c5b4d4d3e270f480245aea0fc8b572411bf6645712be8f61e6825c.1777738281.5969dbb04be7709a020afb853d9bb3bf.63f3b7321362444a9d0b561f769f6547.0baece0bea7de715780e6d17c1421223&signature=79612eb85273d7c2928defc4c24f1f38914248e20ab3d012a91172edd76116d1
+https://edge.cdnlivetv.ru/secure/api/v1/us-btn/playlist.m3u8?token=9b887db2e49300bed0c727cf1f48dde33e664eda4c7e2f2ac5281524078708b3.1777742665.d156b1b71bfc4b94b03fe1056a2e719c.bcb921bdfa87157debeeb5fd2eb1fb47.a7f2a98dfb1227bddd46043c72c5637e&signature=b93d19a1434fd8da36203490ea25d58d6535e5468d97eda1b2043ce850df29d1
 
-#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Minnesota Twins (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="MLB",Toronto Blue Jays vs Minnesota Twins
+#EXTINF:-1 tvg-chno="4" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Toronto Blue Jays vs Minnesota Twins (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="MLB",Toronto Blue Jays vs Minnesota Twins
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=minnesota+twins&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-mlb-minnesota-twins/playlist.m3u8?token=f5f5683ea5f25bac54b91e69657daae87ad58fbb8427eb3a13455ce953878116.1777738282.b8f2bc7ce1d394b5d8e75c3299aca999.06dfb22d26112e78fb08f16348c5a88a.7414b313f3f5274baa69e5017ecf739f&signature=2278a3e0c0251adbd6f2dd6f02925d0681c66d65743800c62c084b621fd73faa
+https://edge.cdnlivetv.ru/secure/api/v1/us-mlb-minnesota-twins/playlist.m3u8?token=0b3954aba79f8bb907ccf0cb8cb8c971a170edcceca33c1acb85219d73fb8a96.1777742668.fecd483bb68e73fefaf97c362526d058.e5f570af10251a13439dc2688fdc25a8.9db8205bff2d05e3e9d419014b73401a&signature=e477d99a3428dff2eab409e7d4ff66012b4316284659bd4e4290c390b6c7c083
+
+#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Arizona Diamondbacks vs Chicago Cubs (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="MLB",Arizona Diamondbacks vs Chicago Cubs
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=chicago+cubs&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-mlb-chicago-cubs/playlist.m3u8?token=bb47947a820b90e76d92f1d25ad0848c0b3c661cf83002d2a8a52b621cf45e2a.1777742669.a1e612cfc141287402c6735b37cef88d.3b184835eb23394e13454a558f0dd46d.7f0544c5fcda4fcbe2d48ee548bf8c71&signature=ca897462743709817cec27e759ef8523ff4f8e160fc2e20fb6b7874aeb6aed6e
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[College Softball] Texas Tech vs Baylor (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Texas Tech vs Baylor
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=espn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-espn/playlist.m3u8?token=42e1b9f12ce37df00f1848772dead313941017ecb8d823beb59e91dc683bed79.1777742666.5feaa2b1b93c5604e25fbf3b56814b9e.0ab49e3d98393832311682ad824e7e4c.4003808fb045d183098139ad33aa16c3&signature=72111b9e5cfdbfaa18ba6dd3a7bd0b4c4634f661c9565a42b73d3df0c2487b11
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[College Softball] Ole Miss vs Mississippi State University (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Ole Miss vs Mississippi State University
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=101c5dbb42774542c754269df47a7609e463bd8e76d13a21354040b072c74bef.1777742666.0347f3e58fec2ca7cd247ba302ffd5f3.774f7517ce219eade7034c2fc4819a9e.42a2fba74b6333246aec5bb497104963&signature=b5f86b4b5cc4dcc9ccc43517829a8d2b7ad816cda3cc588737f6624e0bc0456d
 
