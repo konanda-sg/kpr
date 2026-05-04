@@ -3,23 +3,95 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+klub+3&code=rs&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=76c3036ce1d1872bb8a85ed2d5f0909fa7155c66ed79e441af28c5856d40f0d0.1777900105.58c5c35665c52f1c3caee11eda0bfb9b.4deb6e2b99f61faa67df1b69b051b443.9753686f601bc9faf534e513881e96a5&signature=1e173b458057ee5ab8119d7fe96269dba84504e85601dc188201bbf78a6e1f1f
+https://edge.cdnlivetv.ru/secure/api/v1/rs-sport-klub-3/playlist.m3u8?token=c120205225de618791c7f09171a8eff77f6003c83efdc720cca27fbf5f3fe10c.1777908632.8d0ef92fc663beb9000fb51b9f2ec301.349ae00bcb5292ffd2d9a21b64da9d76.a8bd785ec9420657fef5d264e9eb469a&signature=de662376cf56e07daa90b89906520c4d7eddaccb2ae574dcc02cfb4d892bba2e
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[FNL] Shinnik vs Ural (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FNL",Shinnik vs Ural
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=3955943a3b71bd63cf6ea26d9dfdfc21cfd8a33c16f8a379dea849e6e8015bff.1777900106.16f76342d6678678206a38f0ef394092.d35bad6bd72b43fe0fc3e727d8f78d1d.639a6cff999c9e2ab490efe190093a7c&signature=733ba2721e90fcaaf9e3c4aada88a34b3f602946cb4d91a317577318569ed994
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=b52bf0bc4ba5321b03ecfec96f2130120a01fc3f1a82be06ef38a06885d0a659.1777908633.7311220f083dfa6073343554c2687f97.cc4a1d7bbde5fc1f4beb71e7e9246de7.d449836db7f3fcd9d8e6e4f32db5b582&signature=44479bbc6fd0aca935d2e497aa7dff035e7e83c4017bb8c1b94534899a322972
 
 #EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Premier League] Nottingham Forest vs Chelsea (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Premier League",Nottingham Forest vs Chelsea
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=nbc&code=us&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=50452da89f83ee2b058d0db271385483436da51f0e5d687d08804dc5270d39ed.1777900107.ca3f0e636899c4926298b98a77d6e015.c42fe8b5947855c6b266af2003dbe437.c234eb0ecf501af5c484d4e88679dd52&signature=11af28a0842654e44cc1cfe6ecde3d5aba98c3142c105e6257147a50b3ce3dac
+https://edge.cdnlivetv.ru/secure/api/v1/us-nbc/playlist.m3u8?token=9115cab12200c6a44ee9a29202c90b34b56002db41b35a37774e391615d873a9.1777908633.3214bc3cd78302d686d69350dc091e06.f44dbf3bbfb1b8574378041bc6558c81.6e93650b32bfcb2507a131b791be7ba4&signature=8342b3b468a2d67d6d25ca866ec8b81d3d9934c4eefcd90d8a4fdb41b6ed0e6b
 
 #EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Liga I] Hermannstadt vs Unirea Slobozia (CDNTV)" tvg-logo="https://i.gyazo.com/3fd4b38d5263ca391e45850eb58d11e6.png" group-title="Liga I",Hermannstadt vs Unirea Slobozia
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=6b41d86695c467f06091187d52b97103ff1edabf3c1ee0ff273ed59409460fe8.1777900107.e21a59a6acdb1622c0f399ecde437863.4c31196215dd6b7a9f8f86df59896e8d.253dfbae15f6e864549124128f420ab4&signature=5f3b6b3f20b86a491723a1a00da1f7104a6f6d2006097a5114aafba4716843e5
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=f391249da3754d5ee4d7985683d3a9770564a21bf33ece2e56513ee6e9542505.1777908634.966a536dd7702a92e314a78bbf7432c3.3711faaa90cbc84076231333c21d4501.f0512d954bbfa18ccb01218d5a30f596&signature=cf7fa1189ee0ca273981eb385681344f7f2f1098f0e2ca8af785339bfe73d676
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Hapoel Ra'anana vs Hapoel Afula (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Hapoel Ra'anana vs Hapoel Afula
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+stars&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-stars/playlist.m3u8?token=8655edfb19715c2ce86b86b1dced0603f0c1e422476957b704507df500d0e82b.1777908634.6e397c046719288028ce0032a786ab21.e3118229d113b9b70aa4fd3c2ed72db7.7029ad8394299d6b6f9e8ad6ff858718&signature=eb65196059b00a4da73ace611f05a929711243691452118c6c9855b4161d13ed
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[Pro League] Al Riyadh vs Al-Fayha (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Pro League",Al Riyadh vs Al-Fayha
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=tnt+sports+9&code=gb&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/gb-tnt-sports-9/playlist.m3u8?token=4d81664ae624a07715a059e14d08ef81a0f6756d506e7dc6b0f394533f15b3d6.1777908635.1c2247fde4fbc3f4ada8922f17ebb799.41f82857da26db9372b7dec1ae5b164a.546a4312a913397fdee8c05762d57c04&signature=10b4360ef11cff65e1e96d4178c0cbfc1bc1a43ec0e192140e558e0452af9a81
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[FNL] Rotor Volgograd vs Arsenal Tula (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FNL",Rotor Volgograd vs Arsenal Tula
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=039f0ca56f9308020d3f727beee30144e02604e2056a84f1c798b01755c5b41d.1777908635.af46580f8652c53d294f226a316f389d.8e730fdaadfbad3a82783dd91dfd9853.ad773d61d97c7c8be6fa0b2dc47d57cb&signature=455bc32959de906d02ded5b37805671efe7c1b83c265dc553ab2c22a8684b555
+
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[Serie A] Lazio vs Cremonese (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Serie A",Lazio vs Cremonese
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=fox+deportes&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox-deportes/playlist.m3u8?token=086df1f20604324d1a6c59092906f285d9bb263e15f0075520cd015bfde69df9.1777908636.e033c75b48ad406f544be6bc3dec16d7.1679fcbe4807fadfcf7f8218e849f6c0.f0a14cade7a7f607731875929c0a62c6&signature=1652bbc49b6fbfa3de63cc07d827c9599e5aa29af1488455500d0f6900040c96
+
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Scottish Premiership] Rangers vs Hearts (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/45.png" group-title="Scottish Premiership",Rangers vs Hearts
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=cbs+sports+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-cbs-sports-network/playlist.m3u8?token=fdd7a3a355fc4e367d21cea94ff1989444eaca31d22ec078fad7e14eb616c933.1777908636.b0e84dfbab0bd3fb122a4519f7d6bdd4.b68b4b49b6a564c19088eba7d3ca5636.8946a756ebbbaca8987546da46b2aab8&signature=9ebf7c5552dbeae2fc385dd2e09a2723e8294ee6d71db6ec790782243e17a412
+
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[Bundesliga] Wolfsberger AC vs Rheindorf Altach (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Bundesliga",Wolfsberger AC vs Rheindorf Altach
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sky+sport+1&code=at&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/at-sky-sport-1/playlist.m3u8?token=5c80c08c3569bcd5cc2572f0a5ea26b7aa9829a2667a2ca27d03c1986522d296.1777908637.449446bd09efd011abbe6f9644094b6d.e5e9913cf3a9ed777dd1c7b5a5f1ae04.e27a48320f8b3b07fa6eb8e16493c234&signature=35fae19248bcd220512595c8cc70880283e00eecebedd95176ebe878a6e23a47
+
+#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Segunda liga] Penafiel vs Torreense (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Segunda liga",Penafiel vs Torreense
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+tv+4&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-sport-tv-4/playlist.m3u8?token=fc061c850cd5191097424e3a3277f7186a4c73e6ff606cadd9a4238c33181fbc.1777908637.7c0c6d5eaf3efb9234adf66a2bfa656d.b8a55b59b7482fa1283bebdd81d299f0.1c4cf54d95fc431075253f6d26ccdc45&signature=626266edc25c7df24a0dffbbbac6e11237b13d39d9a2da9b3ef8f3c38fefffd9
+
+#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[Segunda liga] Felgueiras 1932 vs Porto II (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="Segunda liga",Felgueiras 1932 vs Porto II
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=porto+canal&code=pt&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/pt-porto-canal/playlist.m3u8?token=8daad3a5327a579a9c4c1bc9a319ff62414e40d8784ab49ac17d4169ec3f413a.1777908638.9a573c54e5f91ef2c1963f201a352e14.063730c4410d84d3c38334e8276e2ec0.c8177f036cc6edf47812562d9f36994b&signature=ce917a58fbcbedaeaaf9872c2125e48c727d128ecdbd92f490c950fb19b4e2ed
+
+#EXTINF:-1 tvg-chno="13" tvg-id="Live.Event.us" tvg-name="[Ligat Ha'Al] Hapoel Katamon vs Maccabi Netanya (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Ligat Ha'Al",Hapoel Katamon vs Maccabi Netanya
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+4&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-4/playlist.m3u8?token=e7fd7cbf17f208ef9f705043459ad387eb363397d3ae715bba52c5146e9d7dec.1777908638.c44ada55b60209b5460cea8eaeb40fb9.1c7bb2f83738b7c36c4b631b18c1dc0e.bad8bf02a348402e4c43435cd12fcf85&signature=d4b961b453130485cb25eef4b498d975f1140bcd2284eb129b21873d78f1f370
+
+#EXTINF:-1 tvg-chno="14" tvg-id="Live.Event.us" tvg-name="[Ligat Ha'Al] Maccabi Bnei Raina vs Bnei Sakhnin (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Ligat Ha'Al",Maccabi Bnei Raina vs Bnei Sakhnin
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=2fab1310865eeff3f0e05798d120936ddce9c319b57f029a36b46c9035c1d8b5.1777908639.c24647067a7d5068e849aa2bf5b03823.2a4894fa05382c0aa6f2ad5b855f3c80.d785efe4866a8b98a39900bf5218ad8f&signature=6cfc7c094be6b88ae8b4408b8da5c888efced00c67ec1c391136f3a2a943132b
+
+#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="[Ekstraklasa] Lechia Gdańsk vs Radomiak Radom (CDNTV)" tvg-logo="https://i.gyazo.com/362e31efdd0dad03b00858f4fb0901b5.png" group-title="Ekstraklasa",Lechia Gdańsk vs Radomiak Radom
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=bein+sports&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-bein-sports/playlist.m3u8?token=c3343c18377812dce1ac2d8ba4cbfe2a5db0926f7aeeac84bfda96e45bcf58a7.1777908639.51781a0bf6f3c170a91880c3a47e1285.fa92320724a738e511b03c3185bb66ae.ce9937356d58c0c3477d7b6241a465f8&signature=e00009f910005009d444f340c5e103c2b50bf6f7af7fa548e654facc4a50574c
+
+#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="[Liga I] CFR Cluj vs Rapid Bucureşti (CDNTV)" tvg-logo="https://i.gyazo.com/3fd4b38d5263ca391e45850eb58d11e6.png" group-title="Liga I",CFR Cluj vs Rapid Bucureşti
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=digi+sport+1&code=ro&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ro-digi-sport-1/playlist.m3u8?token=09ea5f0891747e0b85978e9da3a6590c765276623dd9165983ad145ebce46d17.1777908640.35bad27ffd97bee254fc7a7fe4f41606.14ef2b11b9b342a6247a3f66efbac65c.846556eab7ba2d4311d8c5796ac3a353&signature=952884cd601c7db7775d32077e53d083b55f145824857f9abade424d908bdb46
 
