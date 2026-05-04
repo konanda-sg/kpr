@@ -1,96 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Manchester United vs Liverpool (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[English Premier League] Manchester United vs Liverpool (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD1
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NFLHD1/index.m3u8?st=u-nBpNLSyAMRBiOmklPeIw&amp;e=1777915316
-
-#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[French Ligue 1] Paris FC vs Brest (STGATE)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[French Ligue 1] Paris FC vs Brest (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV24
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/EU/HDTV24/index.m3u8?st=3djhfziJmoKaKGTyrryInQ&amp;e=1777915318
-
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[French Ligue 1] Strasbourg vs Toulouse (STGATE)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[French Ligue 1] Strasbourg vs Toulouse (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV23
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV23
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/EU/HDTV23/index.m3u8?st=c7ypYKI4KV2JqfdqMgSNfg&amp;e=1777915318
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[German Bundesliga] Borussia Mönchengladbach vs Borussia Dortmund (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[German Bundesliga] Borussia Mönchengladbach vs Borussia Dortmund (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV19
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/EU/HDTV19/index.m3u8?st=QWNiHWUByqwObzVXw4D67A&amp;e=1777915319
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Juventus vs Hellas Verona (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italian Serie A] Juventus vs Hellas Verona (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV12
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/EU/HDTV12/index.m3u8?st=MiYeBRdnKqhybiNYQfA-qg&amp;e=1777915320
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Real Betis vs Real Oviedo (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish LALIGA] Real Betis vs Real Oviedo (STGATE)
-#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV9
-#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/EU/HDTV9/index.m3u8?st=VMm63NQ-qmTdJBF4xsBCVg&amp;e=1777915321
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[German Bundesliga] SC Freiburg vs VfL Wolfsburg (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[German Bundesliga] SC Freiburg vs VfL Wolfsburg (STGATE)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[German Bundesliga] SC Freiburg vs VfL Wolfsburg (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/10.png" group-title="Live Events",[German Bundesliga] SC Freiburg vs VfL Wolfsburg (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV18
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/EU/HDTV18/index.m3u8?st=4RvU97zegLepYrfSv5zJJg&amp;e=1777915322
+https://instreams.pro/EU/HDTV18/index.m3u8?st=C2WFuMlXT01uyWe0Ifeztw&amp;e=1777924389
 
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Aston Villa vs Tottenham Hotspur (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[English Premier League] Aston Villa vs Tottenham Hotspur (STGATE)
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Aston Villa vs Tottenham Hotspur (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[English Premier League] Aston Villa vs Tottenham Hotspur (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NFLHD1/index.m3u8?st=ScpXE8bw40mTc6cDNGqV_w&amp;e=1777915323
+https://instreams.live/US/NFLHD1/index.m3u8?st=tsLgAI6FoDxG7GJb5GI0ZQ&amp;e=1777924390
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Internazionale vs Parma (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italian Serie A] Internazionale vs Parma (STGATE)
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Internazionale vs Parma (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italian Serie A] Internazionale vs Parma (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV11
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/EU/HDTV11/index.m3u8?st=j8GxYnG1tjyF13YvhEw3Lg&amp;e=1777915324
+https://instreams.pro/EU/HDTV11/index.m3u8?st=3IyGID5qo61PAU6fX0dMnw&amp;e=1777924391
 
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="[French Ligue 1] Lyon vs Stade Rennais (STGATE)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[French Ligue 1] Lyon vs Stade Rennais (STGATE)
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[French Ligue 1] Lyon vs Stade Rennais (STGATE)" tvg-logo="https://ligue1.com/images/Logo_Ligue_1.webp" group-title="Live Events",[French Ligue 1] Lyon vs Stade Rennais (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV22
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/EU/HDTV22/index.m3u8?st=dJIBTVqDzB_uwkVKHiZuog&amp;e=1777915325
+https://instreams.pro/EU/HDTV22/index.m3u8?st=wid4nobyNEl1v_bvi98UPw&amp;e=1777924392
 
-#EXTINF:-1 tvg-chno="11" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Espanyol vs Real Madrid (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish LALIGA] Espanyol vs Real Madrid (STGATE)
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish LALIGA] Espanyol vs Real Madrid (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/15.png" group-title="Live Events",[Spanish LALIGA] Espanyol vs Real Madrid (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV8
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/EU/HDTV8/index.m3u8?st=xMzExzSOLoSLxR-3BJ2xUw&amp;e=1777915325
+https://instreams.live/EU/HDTV8/index.m3u8?st=tZMfp25nB-g-mqBN3AzcUA&amp;e=1777924393
 
-#EXTINF:-1 tvg-chno="12" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Chelsea vs Nottingham Forest (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[English Premier League] Chelsea vs Nottingham Forest (STGATE)
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="[English Premier League] Chelsea vs Nottingham Forest (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/23.png" group-title="Live Events",[English Premier League] Chelsea vs Nottingham Forest (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NFLHD1
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NFLHD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NFLHD1/index.m3u8?st=aokMczIkJNvHurJLytSv7Q&amp;e=1777915326
+https://instreams.live/US/NFLHD1/index.m3u8?st=vfqaqTPtfi4zaJQFqLvEcw&amp;e=1777924394
 
-#EXTINF:-1 tvg-chno="13" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Detroit Pistons vs Orlando Magic (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Detroit Pistons vs Orlando Magic (STGATE)
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="[Italian Serie A] Cremonese vs Lazio (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png" group-title="Live Events",[Italian Serie A] Cremonese vs Lazio (STGATE)
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=HDTV11
+#EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=HDTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+https://instreams.pro/EU/HDTV11/index.m3u8?st=WTtRXyhtOPelo2cDro9Mdg&amp;e=1777924395
+
+#EXTINF:-1 tvg-chno="8" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Detroit Pistons vs Orlando Magic (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Detroit Pistons vs Orlando Magic (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.pro/US/NBA1/index.m3u8?st=8CIdt-UUwaYyrhIC-uOVkQ&amp;e=1777915327
+https://instreams.pro/US/NBA1/index.m3u8?st=jgTC3gyP9-H9--m_Fz0cjQ&amp;e=1777924396
 
-#EXTINF:-1 tvg-chno="14" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Cleveland Cavaliers vs Toronto Raptors (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Cleveland Cavaliers vs Toronto Raptors (STGATE)
+#EXTINF:-1 tvg-chno="9" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[National Basketball Association] Cleveland Cavaliers vs Toronto Raptors (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[National Basketball Association] Cleveland Cavaliers vs Toronto Raptors (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NBA2
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NBA2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NBA2/index.m3u8?st=JmMxR2b-RgTXvrw7kwcUpw&amp;e=1777915328
+https://instreams.live/US/NBA2/index.m3u8?st=YuQDIYvRSar_lMegxNr5Tw&amp;e=1777924397
 
-#EXTINF:-1 tvg-chno="15" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Tampa Bay Lightning vs Montreal Canadiens (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Tampa Bay Lightning vs Montreal Canadiens (STGATE)
+#EXTINF:-1 tvg-chno="10" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Tampa Bay Lightning vs Montreal Canadiens (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Tampa Bay Lightning vs Montreal Canadiens (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NHL1
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NHL1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NHL1/index.m3u8?st=wTJQq01-PWt8J4J0M_68uQ&amp;e=1777915329
+https://instreams.pro/US/NHL1/index.m3u8?st=-hzplDDLbhz9_eh5nrGWGA&amp;e=1777924398
 
-#EXTINF:-1 tvg-chno="16" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Colorado Avalanche vs Minnesota Wild (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Colorado Avalanche vs Minnesota Wild (STGATE)
+#EXTINF:-1 tvg-chno="11" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] Colorado Avalanche vs Minnesota Wild (STGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] Colorado Avalanche vs Minnesota Wild (STGATE)
 #EXTVLCOPT:http-referrer=https://instream.click/jwp-us.php?stream=NHL2
 #EXTVLCOPT:http-origin=https://instream.click/jwp-us.php?stream=NHL2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-https://instreams.live/US/NHL2/index.m3u8?st=7rb9XgJzZzdGtuxqvmHJcA&amp;e=1777915330
+https://instreams.pro/US/NHL2/index.m3u8?st=weDk9FlbYZqyQVD-kUAz7A&amp;e=1777924398
