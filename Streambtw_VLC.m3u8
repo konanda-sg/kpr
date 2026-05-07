@@ -1,26 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Champions League] Bayern Munchen vs PSG (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2.png",[UEFA Champions League] Bayern Munchen vs PSG (STRMBTW)
+#EXTINF:-1 tvg-chno="1" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Freiburg vs Sporting Braga (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png",[UEFA Europa League] Freiburg vs Sporting Braga (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ec2.streambtw.com/playlist/stream_1.m3u8?md5=uwEx_LAbj20fRYdTPNKiWg&expires=1778155459
-#EXTINF:-1 tvg-chno="2" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] 76ers at Knicks (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",[NBA] 76ers at Knicks (STRMBTW)
+https://ec2.streambtw.com/playlist/stream_1.m3u8?md5=4T96XIpfUvzd3DScNCarIA&expires=1778165342
+#EXTINF:-1 tvg-chno="2" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Europa League] Aston Villa vs Nottingham Forest (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2310.png",[UEFA Europa League] Aston Villa vs Nottingham Forest (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ec2.streambtw.com/playlist/stream_nba1.m3u8?md5=bM0runwp3omeg14jLLtwgQ&expires=1778155459
-#EXTINF:-1 tvg-chno="3" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Timberwolves at Spurs (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png",[NBA] Timberwolves at Spurs (STRMBTW)
+https://ec2.streambtw.com/playlist/stream_2.m3u8?md5=SrZKl-L3QVhTBJCiRn532g&expires=1778165342
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Strasbourg vs Rayo Vallecano (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png",[UEFA Conference League] Strasbourg vs Rayo Vallecano (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ec2.streambtw.com/playlist/stream_nba2.m3u8?md5=GrNbimZvf-mraUnb_5IBvg&expires=1778155460
-#EXTINF:-1 tvg-chno="4" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Wild at Avalanche (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png",[NHL] Wild at Avalanche (STRMBTW)
+https://ec2.streambtw.com/playlist/stream_3.m3u8?md5=nW7Ho4VJYcRiYUX0o4HQPA&expires=1778165342
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Conference League] Crystal Palace vs Shakhtar Donetsk (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/20296.png",[UEFA Conference League] Crystal Palace vs Shakhtar Donetsk (STRMBTW)
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ec2.streambtw.com/playlist/stream_2.m3u8?md5=6sBjHKoNdCAStolmlFw8Rw&expires=1778155460
-#EXTINF:-1 tvg-chno="5" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Blue Jays at Rays (STRMBTW)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png",[MLB] Blue Jays at Rays (STRMBTW)
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ec2.streambtw.com/playlist/stream_mlb1.m3u8?md5=Lwyj-KfLlHd3obFPXMBFLg&expires=1778155460
+https://ec2.streambtw.com/playlist/stream_4.m3u8?md5=gTSO3-uSg6cvNLMDNYGvHA&expires=1778165343
