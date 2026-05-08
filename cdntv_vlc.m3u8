@@ -3,11 +3,41 @@
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=d754b99ee89cef69b6145933b028f4a2b1524fb0fbf57195da9da5d72677c9d0.1778241257.c808f25717cd23154bca5969ce96eb44.cc92ce600241aa2eb5bba08900d6a4ab.5a42eb781bc296a2ff438405c6b316b7&signature=763aa83161d40dca6f400a3409f65de61aa97dac9a4a07e32b8d4260611b31ef
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5/playlist.m3u8?token=4315f6bfcba82b6bff365a9e98ec22a89f3f0eee388ac477833cfc183703bd27.1778248193.98a490a23f0830ea0b0193baf78df0ca.d3c35ff85c76257d70e38b8a118610fb.a1dce5197bc1ad037a145e8d46bc44a3&signature=1e1eb38931c49711892dd7c8ad98eab0032fe22c2fc62287cdcddce9667c721f
 
 #EXTINF:-1 tvg-chno="2" tvg-id="Live.Event.us" tvg-name="[Liga Leumit] Bnei Yehuda vs Hapoel Kfar Shalem (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Liga Leumit",Bnei Yehuda vs Hapoel Kfar Shalem
 #EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sport+5+live&code=il&user=cdnlivetv&plan=free
 #EXTVLCOPT:http-origin=https://cdnlivetv.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=1dae1f9b3c3e4bff9ba93652c48d1955165c7e266ab8d2934d12e1a756ce2c26.1778241258.a39e9c004ff6193191315f3df3f96ba6.6ea1e063a1e1c3b2d4663c2d21cb184f.bd5d5ad1289d27850c8263db7bdf996f&signature=d884ea8015e3ccbd9941b2f6042b71fdfb6ad502befe203f344c3e0968234438
+https://edge.cdnlivetv.ru/secure/api/v1/il-sport-5-live/playlist.m3u8?token=a6e5dd09dfab45660ef744cef82ce6888fd066b1806107c97ce183f177d19871.1778248194.d592ea5b0452976a7cf94abb6a16a228.13b8752aace9ff6c9566f1098bfab2d6.d0a7696586cb5d7fb0f73f968df484da&signature=911b908c140ab67626e8eb7b698a6d5d01c21988484facc5b4bd1c3fd15d3226
+
+#EXTINF:-1 tvg-chno="3" tvg-id="Live.Event.us" tvg-name="[Parva Liga] Arda vs Lokomotiv Plovdiv (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="Parva Liga",Arda vs Lokomotiv Plovdiv
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=diema+sport+1&code=bg&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/bg-diema-sport-1/playlist.m3u8?token=cab3c4cd25bc840a1cb13e218f5fab856f686e3bbb85a1a06d6e4012a210ad61.1778248194.eb01b0040720ed96a628def1fc36fe60.554bad59e03c6e189add400b41e0dcc9.8cd8edc80345ea44d0694f1e388afe88&signature=2177d3e20eb7bfe6d1db020a5cea6e5e2943040c644fddcbe1cfef823b576e9d
+
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="[Liga I] Csikszereda vs UTA Arad (CDNTV)" tvg-logo="https://i.gyazo.com/3fd4b38d5263ca391e45850eb58d11e6.png" group-title="Liga I",Csikszereda vs UTA Arad
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=arena+sport+2&code=hr&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/hr-arena-sport-2/playlist.m3u8?token=25b2352451ee0973444f37e15f052d9d026654630a1145a5b987f6ee23b72b5a.1778248195.3971170d020af26d02d93e203882483a.e445435b1e5b0a404bca129717a36251.0ff181c9d52b569c3a3bbcc187988da2&signature=97e7d888399fc60bffece85b86f038cbdc4d3897fd21d407a96c5f59d79bfc7d
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Live.Event.us" tvg-name="[FNL] SKA Khabarovsk vs Fakel (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="FNL",SKA Khabarovsk vs Fakel
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=match+premier&code=ru&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/ru-match-premier/playlist.m3u8?token=e5d0a60c7cc8aa5cf0f0880d99516572e8273d095cb998c6eb6b623b4d66fabc.1778248195.3971a28795f769c65df71388c1c1c248.fd398febc6987f1abb4b848d9846abab.1aec3d0f56b83ce8e0adcead863c0af9&signature=0a09936ef64a63c740eed5f04c2030033a46997439ef62cbaa5faaa42b5add3d
+
+#EXTINF:-1 tvg-chno="6" tvg-id="Live.Event.us" tvg-name="[College Softball] Florida vs TBD (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Florida vs TBD
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=sec+network&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-sec-network/playlist.m3u8?token=cfda0a198164eb59998e936ef8c39d6cce15da22d48de56b9d665b23c9adb418.1778248196.a4f016d67c5511c76a03e4ca06a91b3a.75fd7950347e288ce04b7f6c6413aedd.770c19060590448105d5952fdba7143c&signature=f6e209ec9010df2580ceb7a5ec01ef552193a94d3bf83a11d248d56a99c35f51
+
+#EXTINF:-1 tvg-chno="7" tvg-id="Live.Event.us" tvg-name="[College Softball] Indiana vs TBD (CDNTV)" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="College Softball",Indiana vs TBD
+#EXTVLCOPT:http-referrer=https://cdnlivetv.tv/api/v1/channels/player/?name=btn&code=us&user=cdnlivetv&plan=free
+#EXTVLCOPT:http-origin=https://cdnlivetv.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge.cdnlivetv.ru/secure/api/v1/us-btn/playlist.m3u8?token=54aa39aa4ff083348ec87b6fd15ef01f819840f041db911c570f76a3d471841d.1778248196.7b0bcaa5ccec820f6413a35d3f9c6571.589b086fa63dc1f736cc5f43d76bbe99.67bd8be1768f85d54b0fb129e0cbeee5&signature=44cf9f7aa60de03a780c66b4956c3492561bf92836f7d5e7a29330768d559a1b
 
